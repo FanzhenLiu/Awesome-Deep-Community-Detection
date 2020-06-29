@@ -6,7 +6,7 @@ A collection of papers on deep learning for community detection.
 
 - [Awesome Deep Community Detection](#awesome-Deep-Community-Detection)
   - [Survey](#survey)
-  - [Deep Neural Network-based Community Detection](#Deep-Neural Network-based-Community-Detection)
+  - [Deep Neural Network-based Community Detection](#Deep-Neural-Network-based-Community-Detection)
   	- [CNN-based Approach](#CNN-approaches)
   	- [Auto-encoder-based Approaches](#autoencoder-approaches)
   	- [GAN-based Approaches](#GAN-approaches)
