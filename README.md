@@ -6,15 +6,15 @@ A collection of papers on deep learning for community detection.
 
 - [Awesome Deep Community Detection](#awesome-Deep-Community-Detection)
   - [Survey](#survey)
-  - [Deep Neural Network-based Community Detection](#Deep-Neural-Network-based-Community-Detection)
-  	- [CNN-based Approach](#CNN-approaches)
-  	- [Auto-encoder-based Approaches](#autoencoder-approaches)
-  	- [GAN-based Approaches](#GAN-approaches)
-  - [Deep Graph Embedding-based Community Detection](#deep-graph-embedding)
-	- [Deep NMF-based Approaches](#deep-NMF-approaches)
-	- [Deep SF-based Approaches](#deep-SF-approaches)
-	- [Community Embedding-based Approaches](#community-embedding-approaches)
-  - [Graph Neural Network-based Community Detection](#GNN-approaches)
+  - [Deep Neural Network-based Community Detection](#deep-neural network-based-community-detection)
+  	- [CNN-based Approaches](#CNN-based-approaches)
+  	- [Auto-encoder-based Approaches](#auto-encoder-based-approaches)
+  	- [GAN-based Approaches](#GAN-based-approaches)
+  - [Deep Graph Embedding-based Community Detection](#deep-graph embedding-based-community-detection)
+	- [Deep NMF-based Approaches](#deep-NMF-based-approaches)
+	- [Deep SF-based Approaches](#deep-SF-based-approaches)
+	- [Community Embedding-based Approaches](#community-embedding-based-approaches)
+  - [Graph Neural Network-based Community Detection](#graph-neural-network-based-community-detection)
 
 
 ## Survey
