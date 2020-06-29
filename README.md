@@ -34,7 +34,7 @@ __Community Detection in Social Networks__. WIREs Data Mining Knowledge Discover
 
 
 ## Deep Neural Network-based Community Detection
-### CNN-based Approach
+### CNN-based Approaches
 __A deep learning based community detection approach__. SAC 2019. _Giancarlo Sperlí_. [[Paper](https://doi.org/10.1145/3297280.3297574)]
 
 __Deep community detection in topologically incomplete networks__. Physica A 2017. _Xin et al._ [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437116308342)]
