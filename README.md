@@ -82,3 +82,9 @@ __Supervised community detection with line graph neural networks__. ICLR 2019. _
 __Overlapping community detection with graph neural networks__. Deep Learning on Graphs Workshop, KDD 2019. _Oleksandr Shchur and Stephan Günnemann_. [[Paper](https://doi.org/10.1145/3297280.3297574)] [[Code](https://github.com/shchur/overlapping-community-detection)]
 
 __Graph convolutional networks meet markov random fields: Semi-supervised community detection in attribute networks__. AAAI 2019. _Jin et al._. [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3780/3658)]
+
+----------
+**Disclaimer**
+
+If you have any questions, please feel free to contact me.
+Email: <u>fanzhen.liu@hdr.mq.edu.au</u>
