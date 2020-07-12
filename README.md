@@ -37,15 +37,26 @@ __Community Detection in Social Networks__. WIREs Data Mining Knowledge Discover
 ### CNN-based Approaches
 __A deep learning based community detection approach__. SAC 2019. _Giancarlo Sperlí_. [[Paper](https://doi.org/10.1145/3297280.3297574)]
 
-__Deep community detection in topologically incomplete networks__. Physica A 2017. _Xin et al._ [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437116308342)]
+__Deep community detection in topologically incomplete networks__. Physica A 2017. _Xin et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437116308342)]
 
 ### Auto-encoder-based Approaches
+__XXX__. IJCAI 2018. _Chen et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0370.pdf)] [[Code](https://github.com)]
 
-__Graph representation learning via ladder gamma variational autoencoders__. AAAI 2020. _Sarkar et al_. [[Paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SarkarA.4681.pdf)]
+__Graph representation learning via ladder gamma variational autoencoders__. AAAI 2020. _Sarkar et al._. [[Paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SarkarA.4681.pdf)]
 
+__Attributed graph clustering: A deep attentional embedding approach__. IJCAI 2019. _Wang et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0509.pdf)]
 
+__Network-specific variational auto-encoder for embedding in attribute networks__. IJCAI 2019. _Chen et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0370.pdf)]
 
-__Learning community structure with variational autoencoder__. ICDM 2018. _Choong et al_. [[Paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SarkarA.4681.pdf)]
+__Variational graph embedding and clustering with laplacian eigenmaps__. IJCAI 2019. _Chen et al_. [[Paper](https://www.ijcai.org/Proceedings/2019/0297.pdf)]
+
+__Learning community structure with variational autoencoder__. ICDM 2018. _Choong et al._. [[Paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SarkarA.4681.pdf)]
+
+__Adversarially regularized graph autoencoder for graph embedding__. IJCAI 2018. _Pan et al._. [[Paper](https://www.ijcai.org/Proceedings/2018/0362.pdf)] [[Code](https://github.com/Ruiqi-Hu/ARGA)]
+
+__Deep attributed network embedding__. IJCAI 2018. _Chen et al._. [[Paper](https://www.ijcai.org/Proceedings/2018/0467.pdf)] [[Code](https://github.com/gaoghc/DANE)]
+
+__Integrative network embedding via deep joint reconstruction__. IJCAI 2018. _Hongchang Gao and Heng Huang_. [[Paper](https://www.ijcai.org/Proceedings/2018/0473.pdf)]
 
 __Deep network embedding for graph representation learning in signed networks__. IEEE TCYB 2018. _Xiao Sheng and Fu-Lai Chung_. [[Paper](https://ieeexplore.ieee.org/document/8486671)] [[Code](https://github.com/shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks)]
 
