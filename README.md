@@ -99,7 +99,7 @@ diffusion cascades__. AAAI 2018. _Zhang et al._. [[Paper](https://aaai.org/ocs/i
 __Learning community embedding with community detection and node embedding on graphs__. CIKM 2017. _Cavallari et al._. [[Paper](https://dl.acm.org/doi/10.1145/3132847.3132925)] [[Code](https://github.com/vwz/ComE)]
 
 ## Graph Neural Network-based Community Detection
-__Diffusion improves graph learning__. NIPS 2019. _ Klicpera et al._. [[Paper](https://papers.nips.cc/paper/9490-diffusion-improves-graph-learning.pdf)] [[Code](https://github.com/klicperajo/gdc)]
+__Diffusion improves graph learning__. NIPS 2019. _Klicpera et al._. [[Paper](https://papers.nips.cc/paper/9490-diffusion-improves-graph-learning.pdf)] [[Code](https://github.com/klicperajo/gdc)]
 
 __End to end learning and optimization on graphs__. NIPS 2019. _Wilder et al._. [[Paper](https://papers.nips.cc/paper/8715-end-to-end-learning-and-optimization-on-graphs.pdf)] [[Code](https://github.com/bwilder0/clusternet)]
 
