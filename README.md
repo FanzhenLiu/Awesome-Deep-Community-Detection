@@ -40,7 +40,11 @@ __A deep learning based community detection approach__. SAC 2019. _Giancarlo Spe
 __Deep community detection in topologically incomplete networks__. Physica A 2017. _Xin et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437116308342)]
 
 ### Auto-encoder-based Approaches
+__XXX__. NIPS 2019. _Chen et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0370.pdf)] [[Code](https://github.com)]
+
 __Graph representation learning via ladder gamma variational autoencoders__. AAAI 2020. _Sarkar et al._. [[Paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SarkarA.4681.pdf)]
+
+__Semi-implicit graph variational auto-encoders__. NIPS 2019. _Hasanzadeh et al._. [[Paper](https://papers.nips.cc/paper/9255-semi-implicit-graph-variational-auto-encoders.pdf)] [[Code](https://github.com/sigvae/SIGraphVAE)]
 
 __Attributed graph clustering: A deep attentional embedding approach__. IJCAI 2019. _Wang et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0509.pdf)]
 
@@ -64,6 +68,8 @@ __Autoencoder based community detection with adaptive integration of network top
 
 __DFuzzy: A deep learning-based fuzzy clustering model for large graphs__. Knowledge and Information Systems 2018. _Vandana Bhatia and Rinkle Rani_. [[Paper](https://link.springer.com/article/10.1007/s10115-018-1156-3)]
 
+__BL-MNE: Emerging heterogeneous social network embedding through broad learning with aligned autoencoder__. ICDM 2017. _Zhang et al._. [[Paper](https://doi.org/10.1109/ICDM.2017.70)] [[Code](http://www.ifmlab.org/files/code/Aligned-Autoencoder.zip)]
+
 __Modularity based community detection with deep learning__. IJCAI 2016. _Yang et al._. [[Paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)] [[Code](http://yangliang.github.io/code/DC.zip)]
 
 ### GAN-based Approaches
@@ -72,7 +78,6 @@ __CommunityGAN: Community detection with generative adversarial nets__. WWW 2019
 __Learning graph representation with generative adversarial nets__. IEEE TKDE 2019. _Wang et al._. [[Paper](https://ieeexplore.ieee.org/document/8941296)]
 
 __GraphGAN: Graph representation learning with generative adversarial nets__. AAAI 2018. _Wang et al._. [[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16611/15969)] [[Code](https://github.com/hwwang55/GraphGAN)]
-
 
 ## Deep Graph Embedding-based Community Detection
 ### Deep NMF-based Approaches
@@ -84,6 +89,8 @@ __Community detection in attributed graphs: An embedding approach__. AAAI 2018. 
 __Community discovery in networks with deep sparse filtering__. Pattern Recognition 2018. _Xie et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)]
 
 ### Community Embedding-based Approaches
+__vGraph: A generative model for joint community detection and node representation learning.__. NIPS 2019. _Sun et al._. [[Paper](https://papers.nips.cc/paper/8342-vgraph-a-generative-model-for-joint-community-detection-and-node-representation-learning.pdf)] [[Code](https://github.com/fanyun-sun/vGraph)]
+
 __A unified framework for community detection and network representation learning__. IEEE TKDE 2019. _Tu et al._. [[Paper](https://ieeexplore.ieee.org/document/8403293)] [[Code](http://nlp.csai.tsinghua.edu.cn/~tcc/datasets/simplified_CNRL.zip)]
 
 __Embedding both finite and infinite communities on graphs__. IEEE Computational Intelligence Magazine 2019. _Cavallari et al._. [[Paper](https://ieeexplore.ieee.org/document/8764640)]
@@ -94,6 +101,10 @@ diffusion cascades__. AAAI 2018. _Zhang et al._. [[Paper](https://aaai.org/ocs/i
 __Learning community embedding with community detection and node embedding on graphs__. CIKM 2017. _Cavallari et al._. [[Paper](https://dl.acm.org/doi/10.1145/3132847.3132925)] [[Code](https://github.com/vwz/ComE)]
 
 ## Graph Neural Network-based Community Detection
+__Diffusion improves graph learning__. NIPS 2019. _ Klicpera et al._. [[Paper](https://papers.nips.cc/paper/9490-diffusion-improves-graph-learning.pdf)] [[Code](https://github.com/klicperajo/gdc)]
+
+__End to end learning and optimization on graphs__. NIPS 2019. _Wilder et al._. [[Paper](https://papers.nips.cc/paper/8715-end-to-end-learning-and-optimization-on-graphs.pdf)] [[Code](https://github.com/bwilder0/clusternet)]
+
 __Supervised community detection with line graph neural networks__. ICLR 2019. _Chen et al._. [[Paper](https://openreview.net/pdf?id=H1g0Z3A9Fm)] [[Code](https://github.com/zhengdao-chen/GNN4CD)]
 
 __Overlapping community detection with graph neural networks__. Deep Learning on Graphs Workshop, SIGKDD 2019. _Oleksandr Shchur and Stephan Günnemann_. [[Paper](https://doi.org/10.1145/3297280.3297574)] [[Code](https://github.com/shchur/overlapping-community-detection)]
