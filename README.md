@@ -20,6 +20,17 @@ A collection of papers on deep learning for community detection.
 ## Survey
 __Deep Learning for Community Detection: Progress, Challenges and Opportunities__. IJCAI 2020. _Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu_. [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[AI科技评论](https://cloud.tencent.com/developer/article/1632305)]
 
+    @inproceedings{ijcai2020-693, 
+    	author = {Liu, Fanzhen and Xue, Shan and Wu, Jia and Zhou, Chuan and Hu, Wenbin and 
+		Paris, Cecile and Nepal, Surya and Yang, Jian and Yu, Philip S},
+    	booktitle  = {Proceedings of the Twenty-Ninth International Joint Conference on
+		Artificial Intelligence, {IJCAI-20}},
+    	title = {Deep Learning for Community Detection: Progress, Challenges and Opportunities},
+    	year = {2020},
+		pages = {4981-4987},
+		doi = {10.24963/ijcai.2020/693}
+    }
+
 __Community Detection in Networks: A Multidisciplinary Review__. Journal of Network and Computer Applications 2018. _Muhammad Aqib Javed, Muhammad Shahzad Younis, Siddique Latif, Junaid Qadir, Adeel Baig_. [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)]
 
 __Community Discovery in Dynamic Networks: A Survey__. ACM Computing Surveys 2018. _Giulio Rossetti, Rémy Cazabet_. [[Paper](https://dl.acm.org/doi/10.1145/3172867)]
