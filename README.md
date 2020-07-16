@@ -99,15 +99,21 @@ diffusion cascades__. AAAI 2018. _Zhang et al._. [[Paper](https://aaai.org/ocs/i
 __Learning community embedding with community detection and node embedding on graphs__. CIKM 2017. _Cavallari et al._. [[Paper](https://dl.acm.org/doi/10.1145/3132847.3132925)] [[Code](https://github.com/vwz/ComE)]
 
 ## Graph Neural Network-based Community Detection
+__Community-centric graph convolutional network for unsupervised community detection__. IJCAI 2020. _He et al._. [[Paper](https://www.ijcai.org/Proceedings/2020/0486.pdf)]
+
 __Diffusion improves graph learning__. NIPS 2019. _Klicpera et al._. [[Paper](https://papers.nips.cc/paper/9490-diffusion-improves-graph-learning.pdf)] [[Code](https://github.com/klicperajo/gdc)]
 
 __End to end learning and optimization on graphs__. NIPS 2019. _Wilder et al._. [[Paper](https://papers.nips.cc/paper/8715-end-to-end-learning-and-optimization-on-graphs.pdf)] [[Code](https://github.com/bwilder0/clusternet)]
+
+__Attributed graph clustering: A deep attentional embedding approach__. IJCAI 2019. _Wang et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0509.pdf)]
 
 __Supervised community detection with line graph neural networks__. ICLR 2019. _Chen et al._. [[Paper](https://openreview.net/pdf?id=H1g0Z3A9Fm)] [[Code](https://github.com/zhengdao-chen/GNN4CD)]
 
 __Overlapping community detection with graph neural networks__. Deep Learning on Graphs Workshop, SIGKDD 2019. _Oleksandr Shchur and Stephan Günnemann_. [[Paper](https://doi.org/10.1145/3297280.3297574)] [[Code](https://github.com/shchur/overlapping-community-detection)]
 
 __Graph convolutional networks meet markov random fields: Semi-supervised community detection in attribute networks__. AAAI 2019. _Jin et al._. [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3780/3658)]
+
+__Adversarially regularized graph autoencoder for graph embedding__. IJCAI 2018. _Pan et al._. [[Paper](https://www.ijcai.org/Proceedings/2018/0362.pdf)] [[Code](https://github.com/Ruiqi-Hu/ARGA)]
 
 ----------
 **Disclaimer**
