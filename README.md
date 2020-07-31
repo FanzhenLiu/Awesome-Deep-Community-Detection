@@ -15,12 +15,14 @@ A collection of papers on deep learning for community detection.
 	- [Deep SF-based Approaches](#deep-SF-based-approaches)
 	- [Community Embedding-based Approaches](#community-embedding-based-approaches)
   - [Graph Neural Network-based Community Detection](#graph-neural-network-based-community-detection)
+  - [Datasets](#datasets#)
+  - [Tools](#tools#)
 
 
 ## Survey
 __Deep Learning for Community Detection: Progress, Challenges and Opportunities__. IJCAI 2020. _Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu_. [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[AI科技评论](https://cloud.tencent.com/developer/article/1632305)]
 
-    @inproceedings{ijcai2020-693, 
+    @inproceedings{ijcai2020-693,
     	author = {Liu, Fanzhen and Xue, Shan and Wu, Jia and Zhou, Chuan and Hu, Wenbin and 
 		Paris, Cecile and Nepal, Surya and Yang, Jian and Yu, Philip S},
     	booktitle  = {Proceedings of the Twenty-Ninth International Joint Conference on
@@ -125,6 +127,17 @@ __Overlapping community detection with graph neural networks__. Deep Learning on
 __Graph convolutional networks meet markov random fields: Semi-supervised community detection in attribute networks__. AAAI 2019. _Jin et al._. [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3780/3658)]
 
 __Adversarially regularized graph autoencoder for graph embedding__. IJCAI 2018. _Pan et al._. [[Paper](https://www.ijcai.org/Proceedings/2018/0362.pdf)] [[Code](https://github.com/Ruiqi-Hu/ARGA)]
+
+
+## Datasets
+- MEJN, http://www-personal.umich.edu/~mejn/netdata/
+- SNAP, http://snap.stanford.edu/data/index.html
+- Cellphone Calls, http://www.cs.umd.edu/hcil/VASTchallenge08/
+- Enron Mail, http://www.cs.cmu.edu/~enron/
+
+## Tools
+Gephi, https://gephi.org/
+Pajek, http://mrvar.fdv.uni-lj.si/pajek/
 
 ----------
 **Disclaimer**
