@@ -134,10 +134,11 @@ __Adversarially regularized graph autoencoder for graph embedding__. IJCAI 2018.
 - SNAP, http://snap.stanford.edu/data/index.html
 - Cellphone Calls, http://www.cs.umd.edu/hcil/VASTchallenge08/
 - Enron Mail, http://www.cs.cmu.edu/~enron/
+- Friendship, [[Paper](https://dl.acm.org/doi/10.1145/2501654.2501657)]
 
 ## Tools
-Gephi, https://gephi.org/
-Pajek, http://mrvar.fdv.uni-lj.si/pajek/
+- Gephi, https://gephi.org/
+- Pajek, http://mrvar.fdv.uni-lj.si/pajek/
 
 ----------
 **Disclaimer**
