@@ -15,8 +15,8 @@ A collection of papers on deep learning for community detection.
 	- [Deep SF-based Approaches](#deep-SF-based-approaches)
 	- [Community Embedding-based Approaches](#community-embedding-based-approaches)
   - [Graph Neural Network-based Community Detection](#graph-neural-network-based-community-detection)
-  - [Datasets](#datasets#)
-  - [Tools](#tools#)
+  - [Datasets](#datasets)
+  - [Tools](#tools)
 
 
 ## Survey
