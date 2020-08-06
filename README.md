@@ -84,6 +84,8 @@ __BL-MNE: Emerging heterogeneous social network embedding through broad learning
 __Modularity based community detection with deep learning__. IJCAI 2016. _Yang et al._. [[Paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)] [[Code](http://yangliang.github.io/code/DC.zip)]
 
 ### GAN-based Approaches
+__JANE: Jointly adversarial network embedding__. IJCAI 2020. _Yang et al._. [[Paper](https://www.ijcai.org/Proceedings/2020/0192.pdf)]
+
 __CommunityGAN: Community detection with generative adversarial nets__. WWW 2019. _Jia et al._. [[Paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313564)] [[Code](https://github.com/SamJia/CommunityGAN)]
 
 __Learning graph representation with generative adversarial nets__. IEEE TKDE 2019. _Wang et al._. [[Paper](https://ieeexplore.ieee.org/document/8941296)]
@@ -134,7 +136,7 @@ __Adversarially regularized graph autoencoder for graph embedding__. IJCAI 2018.
 - SNAP, http://snap.stanford.edu/data/index.html
 - Cellphone Calls, http://www.cs.umd.edu/hcil/VASTchallenge08/
 - Enron Mail, http://www.cs.cmu.edu/~enron/
-- Friendship, [[Paper](https://dl.acm.org/doi/10.1145/2501654.2501657)]
+- Friendship https://dl.acm.org/doi/10.1145/2501654.2501657
 
 ## Tools
 - Gephi, https://gephi.org/
