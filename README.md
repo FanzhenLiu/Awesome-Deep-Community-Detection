@@ -20,7 +20,7 @@ A collection of papers on deep learning for community detection.
 
 
 ## Survey
-__Deep Learning for Community Detection: Progress, Challenges and Opportunities__. IJCAI 2020. _Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu_. [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[AI科技评论](https://cloud.tencent.com/developer/article/1632305)]
+__Deep Learning for Community Detection: Progress, Challenges and Opportunities__. IJCAI 2020. _Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu_. [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[AI科技评论](https://cloud.tencent.com/developer/article/1632305)] [[AI科技评论](https://cloud.tencent.com/developer/article/1632305)]
 
 
 Link: https://www.ijcai.org/Proceedings/2020/693
