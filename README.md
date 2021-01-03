@@ -126,7 +126,7 @@ __Attributed graph clustering: A deep attentional embedding approach__. IJCAI 20
 
 __Supervised community detection with line graph neural networks__. ICLR 2019. _Chen et al._. [[Paper](https://openreview.net/pdf?id=H1g0Z3A9Fm)] [[Code](https://github.com/zhengdao-chen/GNN4CD)]
 
-__Overlapping community detection with graph neural networks__. Deep Learning on Graphs Workshop, SIGKDD 2019. _Oleksandr Shchur and Stephan Günnemann_. [[Paper](https://doi.org/10.1145/3297280.3297574)] [[Code](https://github.com/shchur/overlapping-community-detection)]
+__Overlapping community detection with graph neural networks__. Deep Learning on Graphs Workshop, SIGKDD 2019. _Oleksandr Shchur and Stephan Günnemann_. [[Paper](https://deep-learning-graphs.bitbucket.io/dlg-kdd19/accepted_papers/DLG_2019_paper_3.pdf)] [[Code](https://github.com/shchur/overlapping-community-detection)]
 
 __Graph convolutional networks meet markov random fields: Semi-supervised community detection in attribute networks__. AAAI 2019. _Jin et al._. [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3780/3658)]
 
