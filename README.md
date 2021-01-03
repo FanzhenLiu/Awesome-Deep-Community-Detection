@@ -50,12 +50,16 @@ __Community Detection in Social Networks__. WIREs Data Mining Knowledge Discover
 
 ## Deep Neural Network-based Community Detection
 ### CNN-based Approaches
+__Edge classification based on convolutional neural networks for community detection in complex network__. Physica A 2020. _Cai et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437120304271)]
+
 __A deep learning based community detection approach__. SAC 2019. _Giancarlo Sperlí_. [[Paper](https://doi.org/10.1145/3297280.3297574)]
 
 __Deep community detection in topologically incomplete networks__. Physica A 2017. _Xin et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437116308342)]
 
 ### Auto-encoder-based Approaches
 __Graph representation learning via ladder gamma variational autoencoders__. AAAI 2020. _Sarkar et al._. [[Paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SarkarA.4681.pdf)]
+
+__Adaptive graph encoder for attributed graph embedding__. SIGKDD 2020. _Cui et al._. [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403140)] [[Code](https://github.com/thunlp/AGE)]
 
 __Semi-implicit graph variational auto-encoders__. NIPS 2019. _Hasanzadeh et al._. [[Paper](https://papers.nips.cc/paper/9255-semi-implicit-graph-variational-auto-encoders.pdf)] [[Code](https://github.com/sigvae/SIGraphVAE)]
 
@@ -98,6 +102,8 @@ __GraphGAN: Graph representation learning with generative adversarial nets__. AA
 ### Deep NMF-based Approaches
 __Deep autoencoder-like nonnegative matrix factorization for community detection__. CIKM 2018. _Ye et al._. [[Paper](https://dl.acm.org/doi/10.1145/3269206.3271697)] [[Code](https://github.com/benedekrozemberczki/DANMF)]
 
+__Community detection based on modularized deep nonnegative matrix factorization__. International Journal of Pattern Recognition and Artificial Intelligence 2020. _Huang et al._. [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590060)]
+
 ### Deep SF-based Approaches
 __Community discovery in networks with deep sparse filtering__. Pattern Recognition 2018. _Xie et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)]
 
@@ -114,7 +120,17 @@ diffusion cascades__. AAAI 2018. _Zhang et al._. [[Paper](https://aaai.org/ocs/i
 __Learning community embedding with community detection and node embedding on graphs__. CIKM 2017. _Cavallari et al._. [[Paper](https://dl.acm.org/doi/10.1145/3132847.3132925)] [[Code](https://github.com/vwz/ComE)]
 
 ## Graph Neural Network-based Community Detection
+__Structural deep clustering network__.  WWW 2020. _Bo et al._. [[Paper](https://dl.acm.org/doi/10.1145/3366423.3380214)] [[Code](https://github.com/bdy9527/SDCN)]
+
 __Community-centric graph convolutional network for unsupervised community detection__. IJCAI 2020. _He et al._. [[Paper](https://www.ijcai.org/Proceedings/2020/0486.pdf)]
+
+__Multi-view attribute graph convolution networks for clustering__. IJCAI 2020. _Cheng et al._. [[Paper](https://www.ijcai.org/Proceedings/2020/0411.pdf)]
+
+__Multi-class imbalanced graph convolutional network learning__. IJCAI 2020. _Shi et al._. [[Paper](https://www.ijcai.org/Proceedings/2020/0398.pdf)]
+
+__Going deep: Graph convolutional ladder-shape networks__. AAAI 2020. _Hu et al._. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5673/5529)]
+
+__Independence promoted graph disentangled networks__. AAAI 2020. _Liu et al._. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5929/5785)]
 
 __Diffusion improves graph learning__. NIPS 2019. _Klicpera et al._. [[Paper](https://papers.nips.cc/paper/9490-diffusion-improves-graph-learning.pdf)] [[Code](https://github.com/klicperajo/gdc)]
 
@@ -122,11 +138,15 @@ __End to end learning and optimization on graphs__. NIPS 2019. _Wilder et al._. 
 
 __Attributed graph clustering: A deep attentional embedding approach__. IJCAI 2019. _Wang et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0509.pdf)]
 
+__Attributed graph clustering via adaptive graph convolution__. IJCAI 2019. _Zhang et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0601.pdf)] [[Code](https://github.com/karenlatong/AGC-master)]
+
 __Supervised community detection with line graph neural networks__. ICLR 2019. _Chen et al._. [[Paper](https://openreview.net/pdf?id=H1g0Z3A9Fm)] [[Code](https://github.com/zhengdao-chen/GNN4CD)]
 
 __Overlapping community detection with graph neural networks__. Deep Learning on Graphs Workshop, SIGKDD 2019. _Oleksandr Shchur and Stephan Günnemann_. [[Paper](https://deep-learning-graphs.bitbucket.io/dlg-kdd19/accepted_papers/DLG_2019_paper_3.pdf)] [[Code](https://github.com/shchur/overlapping-community-detection)]
 
 __Graph convolutional networks meet markov random fields: Semi-supervised community detection in attribute networks__. AAAI 2019. _Jin et al._. [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3780/3658)]
+
+__CayleyNets: Graph convolutional neural networks with complex rational spectral filters__.  IEEE Transactions on Signal Processing 2019. _Levie et al._. [[Paper](https://ieeexplore.ieee.org/document/8521593)] [[Code](https://github.com/amoliu/CayleyNet)]
 
 __Adversarially regularized graph autoencoder for graph embedding__. IJCAI 2018. _Pan et al._. [[Paper](https://www.ijcai.org/Proceedings/2018/0362.pdf)] [[Code](https://github.com/Ruiqi-Hu/ARGA)]
 
