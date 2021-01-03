@@ -98,8 +98,6 @@ __GraphGAN: Graph representation learning with generative adversarial nets__. AA
 ### Deep NMF-based Approaches
 __Deep autoencoder-like nonnegative matrix factorization for community detection__. CIKM 2018. _Ye et al._. [[Paper](https://dl.acm.org/doi/10.1145/3269206.3271697)] [[Code](https://github.com/benedekrozemberczki/DANMF)]
 
-__Community detection in attributed graphs: An embedding approach__. AAAI 2018. _Li et al._. [[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/17142/15705)]
-
 ### Deep SF-based Approaches
 __Community discovery in networks with deep sparse filtering__. Pattern Recognition 2018. _Xie et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)]
 
