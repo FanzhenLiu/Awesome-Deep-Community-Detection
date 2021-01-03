@@ -63,7 +63,7 @@ __Attributed graph clustering: A deep attentional embedding approach__. IJCAI 20
 
 __Network-specific variational auto-encoder for embedding in attribute networks__. IJCAI 2019. _Chen et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0370.pdf)]
 
-__Variational graph embedding and clustering with laplacian eigenmaps__. IJCAI 2019. _Chen et al_. [[Paper](https://www.ijcai.org/Proceedings/2019/0297.pdf)]
+__Variational graph embedding and clustering with laplacian eigenmaps__. IJCAI 2019. _Chen et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0297.pdf)]
 
 __Learning community structure with variational autoencoder__. ICDM 2018. _Choong et al._. [[Paper](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-SarkarA.4681.pdf)]
 
