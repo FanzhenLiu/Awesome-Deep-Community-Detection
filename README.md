@@ -73,6 +73,8 @@ __Optimizing variational graph autoencoder for community detection with dual opt
 
 __Stacked autoencoder-based community detection method via an ensemble clustering framework__. Information Sciences 2020. _Xu et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552030270X)]
 
+__Deep multi-graph clustering via attentive cross-graph association__. WSDM 2020. _Luo et al._. [[Paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371806)] [[Code](https://github.com/flyingdoog/DMGC)]
+
 __Semi-implicit graph variational auto-encoders__. NIPS 2019. _Hasanzadeh et al._. [[Paper](https://papers.nips.cc/paper/9255-semi-implicit-graph-variational-auto-encoders.pdf)] [[Code](https://github.com/sigvae/SIGraphVAE)]
 
 __Attributed graph clustering: A deep attentional embedding approach__. IJCAI 2019. _Wang et al._. [[Paper](https://www.ijcai.org/Proceedings/2019/0509.pdf)]
@@ -155,8 +157,6 @@ __Multi-class imbalanced graph convolutional network learning__. IJCAI 2020. _Sh
 __Going deep: Graph convolutional ladder-shape networks__. AAAI 2020. _Hu et al._. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5673/5529)]
 
 __Independence promoted graph disentangled networks__. AAAI 2020. _Liu et al._. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5929/5785)]
-
-__Deep multi-graph clustering via attentive cross-graph association__. WSDM 2020. _Luo et al._. [[Paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371806)] [[Code](https://github.com/flyingdoog/DMGC)]
 
 __Diffusion improves graph learning__. NIPS 2019. _Klicpera et al._. [[Paper](https://papers.nips.cc/paper/9490-diffusion-improves-graph-learning.pdf)] [[Code](https://github.com/klicperajo/gdc)]
 
