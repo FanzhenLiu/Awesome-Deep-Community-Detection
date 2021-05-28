@@ -20,13 +20,27 @@ A collection of papers on deep learning for community detection.
 
 
 ## Survey
+__A Comprehensive Survey on Community Detection with Deep Learning__. **28 Pages**, arXiv 2021. _Xing Su, Shan Xue, Fanzhen Liu, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu_. [[Paper](https://arxiv.org/pdf/2105.12584.pdf)] 
+
+Link: https://arxiv.org/abs/2105.12584
+
+    @inproceedings{su2021survey,
+    	author = {Su, Xing and Xue, Shan and Liu, Fanzhen and Wu, Jia and Yang, Jian and 
+		Zhou, Chuan and Hu, Wenbin and Paris, Cecile and Nepal, Surya and Jin, Di and 
+		Sheng, Quan Z. and Yu, Philip S.},
+		eprint={2105.12584},
+		archivePrefix={arXiv},
+    	title = {A Comprehensive Survey on Community Detection with Deep Learning},
+    	year = {2021},
+    }
+
 __Deep Learning for Community Detection: Progress, Challenges and Opportunities__. IJCAI 2020. _Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu_. [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[AI科技评论](https://cloud.tencent.com/developer/article/1632305)]
 
 Link: https://www.ijcai.org/Proceedings/2020/693
 
     @inproceedings{ijcai2020-693,
     	author = {Liu, Fanzhen and Xue, Shan and Wu, Jia and Zhou, Chuan and Hu, Wenbin and 
-		Paris, Cecile and Nepal, Surya and Yang, Jian and Yu, Philip S},
+		Paris, Cecile and Nepal, Surya and Yang, Jian and Yu, Philip S.},
     	booktitle  = {Proceedings of the Twenty-Ninth International Joint Conference on
 		Artificial Intelligence, {IJCAI-20}},
     	title = {Deep Learning for Community Detection: Progress, Challenges and Opportunities},
