@@ -8,7 +8,7 @@ A collection of papers on deep learning for community detection.
   - [Survey](#survey)
   - [Convolutional Networks-based Community Detection](#convolutional-network-based-community-detection)
   	- [CNN-based Community Detection](#CNN-based-community-detection)
-  	- [GCN-based Approaches](#GCN-based-community-detection)
+  	- [GCN-based Community Detection](#GCN-based-community-detection)
   - [Graph Attention Network(GAT)-based Community Detection](#graph-attention-network-based-community-detection)
   - [Graph Adversarial Network(GAN)-based Community Detection](#graph-adversarial-network-based-community-detection)
   - [Autoencoder(AE)-based Community Detection](#autoencoder-based-community-detection)
@@ -68,15 +68,21 @@ __Community Detection: A User Guide__. Physics Reports 2016. _Santo Fortunato, D
 __Community Detection in Social Networks__. WIREs Data Mining Knowledge Discovery 2016. _Punam Bedi, Chhavi Sharma_. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1178)]
 
 
-## Deep Neural Network-based Community Detection
-### CNN-based Approaches
-__Edge classification based on convolutional neural networks for community detection in complex network__. Physica A 2020. _Cai et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437120304271)]
+## Convolutional Networks-based Community Detection
+### CNN-based Community Detection
+__Deep community detection in topologically incomplete networks__. Physica A 2017. _Xin et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437116308342)]
 
 __A deep learning based community detection approach__. SAC 2019. _Giancarlo Sperlí_. [[Paper](https://doi.org/10.1145/3297280.3297574)]
 
-__Deep community detection in topologically incomplete networks__. Physica A 2017. _Xin et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437116308342)]
+__Edge classification based on convolutional neural networks for community detection in complex network__. Physica A 2020. _Cai et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437120304271)]
 
-### Auto-encoder-based Approaches
+### GCN-based Community Detection
+
+## Graph Attention Network(GAT)-based Community Detection
+
+## Graph Adversarial Network(GAN)-based Community Detection
+
+## Autoencoder(AE)-based Community Detection
 __An evolutionary autoencoder for dynamic community detection__. Science China Information Sciences 2020. _Wang et al._. [[Paper](https://link.springer.com/article/10.1007/s11432-020-2827-9)]
 
 __Deep learning-based community detection in complex networks with network partitioning and reduction of trainable parameters__. Journal of Ambient Intelligence and Humanized Computing 2020. _Al-Andoli et al._. [[Paper](https://link.springer.com/article/10.1007/s12652-020-02389-x)]
