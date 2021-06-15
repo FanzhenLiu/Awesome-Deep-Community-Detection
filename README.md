@@ -23,6 +23,7 @@ A collection of papers on deep learning for community detection.
   - [Datasets](#datasets)
   - [Tools](#tools)
 
+----------
 ## Survey
 __A Comprehensive Survey on Community Detection with Deep Learning__. **28 Pages**, arXiv 2021. _Xing Su, Shan Xue, Fanzhen Liu, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu_. [[Paper](https://arxiv.org/pdf/2105.12584.pdf)] 
 
@@ -63,6 +64,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 |Network Community Detection: A Review and Visual Survey | Preprint | 2017 | _Bisma S. Khan and Muaz A. Niazi_. | [[Paper](https://arxiv.org/abs/1708.00977)] |
 |Community Detection: A User Guide | Physics Reports | 2016 | _Santo Fortunato and Darko Hric_ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157316302964)] |
 
+----------
 ## Convolutional Networks-based Community Detection
 ### CNN-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
@@ -84,12 +86,14 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 |Adaptive graph encoder for attributed graph embedding | SIGKDD | 2020 | _Cui et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403140)][[Code](https://github.com/thunlp/AGE)] |
 |CayleyNets: Graph convolutional neural networks with complex rational spectral filters | IEEE Transactions on Signal Processing | 2019 |  _Levie et al._ | [[Paper](https://ieeexplore.ieee.org/document/8521593)][[Code](https://github.com/amoliu/CayleyNet)] |
 
+----------
 ## Graph Attention Network-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 |Unsupervised Attributed Multiplex Network Embedding | AAAI | 2020 | _Park et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5985)][[Code](https://github.com/pcy1302/DMGI)] |
 |MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding | WWW | 2020 | _Fu et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380297)] [[Code](https://github.com/cynricfu/MAGNN)] |
 
+----------
 ## Graph Adversarial Network-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
@@ -99,6 +103,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 |ProGAN: Network Embedding via Proximity Generative Adversarial Network | KDD | 2019 | _Gao et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330866)] |
 |CommunityGAN: Community detection with generative adversarial nets | WWW | 2019 | _Jia et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313564)][[Code](https://github.com/SamJia/CommunityGAN)] |
 
+----------
 ## Autoencoder-based Community Detection
 ### Stacked AE-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
@@ -150,6 +155,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 |Adversarially regularized graph autoencoder for graph embedding | IJCAI | 2018 | _Pan et al._ | [[Paper](https://www.ijcai.org/Proceedings/2018/0362.pdf)][[Code](https://github.com/Ruiqi-Hu/ARGA)]| 
 |Optimizing variational graph autoencoder for community detection | BigData | 2019 | _Choong et al._ | [[Paper](https://ieeexplore.ieee.org/abstract/document/9006123)] |
 
+----------
 ## Deep Nonnegative Matrix Factorization-based Community Detection 
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
@@ -157,11 +163,13 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 |A Non-negative Symmetric Encoder-Decoder Approach for Community Detection | CIKM | 2017 | _Sun et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132902)] |
 |Community detection based on modularized deep nonnegative matrix factorization | International Journal of Pattern Recognition and Artificial Intelligence | 2020 | _Huang et al._ | [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590060)] |
 
+----------
 ## Deep Sparse Filtering-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
 |Community discovery in networks with deep sparse filtering | Pattern Recognition | 2018 | _Xie et al._ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)] |
 
+----------
 ## Datasets
 ### Citation/Co-authorship Networks
 - Citeseer, Cora, Pubmed https://linqs.soe.ucsc.edu/data
@@ -190,6 +198,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 - Java https://github.com/gephi/gephi/wiki/Datasets
 - Hypertext http://www.sociopatterns.org/datasets
  
+ ----------
 ## Tools
 - Gephi, https://gephi.org/
 - Pajek, http://mrvar.fdv.uni-lj.si/pajek/
