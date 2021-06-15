@@ -76,13 +76,13 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ### GCN-based Community Detection 
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-|Adaptive graph encoder for attributed graph embedding | SIGKDD | 2020 | _Cui et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403140)][[Code](https://github.com/thunlp/AGE)] |
+|Adaptive graph encoder for attributed graph embedding | KDD | 2020 | _Cui et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403140)][[Code](https://github.com/thunlp/AGE)] |
 |CommDGI: Community detection oriented deep graph infomax | CIKM | 2020 | _Zhang et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412042)] | 
 |Going deep: Graph convolutional ladder-shape networks | AAAI | 2020 | _Hu et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5673/5529)] |
 |Independence promoted graph disentangled networks | AAAI | 2020 | _Liu et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5929/5785)] |
 |Supervised community detection with line graph neural networks | ICLR | 2019 | _Chen et al._ | [[Paper](https://openreview.net/pdf?id=H1g0Z3A9Fm)][[Code](https://github.com/zhengdao-chen/GNN4CD)] |
 |Graph convolutional networks meet markov random fields: Semi-supervised community detection in attribute networks | AAAI | 2019 | _Jin et al._ | [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3780/3658)] |
-|Overlapping community detection with graph neural networks | Deep Learning on Graphs Workshop, SIGKDD | 2019 | _Oleksandr Shchur and Stephan Günnemann_ | [[Paper](https://deep-learning-graphs.bitbucket.io/dlg-kdd19/accepted_papers/DLG_2019_paper_3.pdf)][[Code](https://github.com/shchur/overlapping-community-detection)] |
+|Overlapping community detection with graph neural networks | DLG Workshop, KDD | 2019 | _Oleksandr Shchur and Stephan Günnemann_ | [[Paper](https://deep-learning-graphs.bitbucket.io/dlg-kdd19/accepted_papers/DLG_2019_paper_3.pdf)][[Code](https://github.com/shchur/overlapping-community-detection)] |
 |Attributed graph clustering via adaptive graph convolution | IJCAI | 2019 | _Zhang et al._ | [[Paper](https://www.ijcai.org/Proceedings/2019/0601.pdf)][[Code](https://github.com/karenlatong/AGC-master)] |
 |CayleyNets: Graph convolutional neural networks with complex rational spectral filters | IEEE Transactions on Signal Processing | 2019 |  _Levie et al._ | [[Paper](https://ieeexplore.ieee.org/document/8521593)][[Code](https://github.com/amoliu/CayleyNet)] |
 
