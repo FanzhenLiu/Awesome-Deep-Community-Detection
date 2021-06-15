@@ -60,7 +60,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 | Community Discovery in Dynamic Networks: A Survey | ACM Computing Surveys | 2018 | _Giulio Rossetti and Remy Cazabet._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | Evolutionary Computation for Community Detection in Networks: A Review | IEEE Transactions on Evolutionary Computation | 2018 | _Clara Pizzuti_ | [[Paper](https://ieeexplore.ieee.org/document/8004509)] |
 |Metrics for Community Analysis: A Survey | ACM Computing Surveys | 2017 | _Chakraborty et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3091106)] |
-|Network Community Detection: A Review and Visual Survey | Preprint | 2017 | _Bisma S. Khan, Muaz A. Niazi_. | [[Paper](https://arxiv.org/abs/1708.00977)] |
+|Network Community Detection: A Review and Visual Survey | Preprint | 2017 | _Bisma S. Khan and Muaz A. Niazi_. | [[Paper](https://arxiv.org/abs/1708.00977)] |
 |Community Detection: A User Guide | Physics Reports | 2016 | _Santo Fortunato and Darko Hric_ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157316302964)] |
 
 ## Convolutional Networks-based Community Detection
@@ -77,7 +77,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 |Supervised community detection with line graph neural networks | ICLR | 2019 | _Chen et al._ | [[Paper](https://openreview.net/pdf?id=H1g0Z3A9Fm)][[Code](https://github.com/zhengdao-chen/GNN4CD)] |
 |Graph convolutional networks meet markov random fields: Semi-supervised community detection in attribute networks | AAAI | 2019 | _Jin et al._ | [[Paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3780/3658)] |
 |CommDGI: Community Detection Oriented Deep Graph Infomax | CIKM | 2020 | _Zhang et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412042)] | 
-|Overlapping community detection with graph neural networks | Deep Learning on Graphs Workshop, SIGKDD | 2019 | _Oleksandr Shchur, Stephan Günnemann_ | [[Paper](https://deep-learning-graphs.bitbucket.io/dlg-kdd19/accepted_papers/DLG_2019_paper_3.pdf)][[Code](https://github.com/shchur/overlapping-community-detection)] |
+|Overlapping community detection with graph neural networks | Deep Learning on Graphs Workshop, SIGKDD | 2019 | _Oleksandr Shchur and Stephan Günnemann_ | [[Paper](https://deep-learning-graphs.bitbucket.io/dlg-kdd19/accepted_papers/DLG_2019_paper_3.pdf)][[Code](https://github.com/shchur/overlapping-community-detection)] |
 |Going deep: Graph convolutional ladder-shape networks | AAAI | 2020 | _Hu et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5673/5529)] |
 |Independence promoted graph disentangled networks | AAAI | 2020 | _Liu et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5929/5785)] |
 |Attributed graph clustering via adaptive graph convolution | IJCAI | 2019 | _Zhang et al._ | [[Paper](https://www.ijcai.org/Proceedings/2019/0601.pdf)][[Code](https://github.com/karenlatong/AGC-master)] |
