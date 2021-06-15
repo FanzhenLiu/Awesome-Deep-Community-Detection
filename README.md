@@ -6,20 +6,20 @@ A collection of papers on deep learning for community detection.
 
 - [Awesome Deep Community Detection](#awesome-Deep-Community-Detection)
   - [Survey](#survey)
-  - [Convolutional Networks-based Community Detection](#convolutional-network-based-community-detection)
-  	- [CNN-based Community Detection](#CNN-based-community-detection)
-  	- [GCN-based Community Detection](#GCN-based-community-detection)
-  - [Graph Attention Network(GAT)-based Community Detection](#graph-attention-network-based-community-detection)
-  - [Graph Adversarial Network(GAN)-based Community Detection](#graph-adversarial-network-based-community-detection)
-  - [Autoencoder(AE)-based Community Detection](#autoencoder-based-community-detection)
+  - [Convolutional Networks-based Community Detection](#convolutional-networks-based-community-detection)
+  	- [CNN-based Community Detection](#cnn-based-community-detection)
+  	- [GCN-based Community Detection](#gcn-based-community-detection)
+  - [Graph Attention Network-based Community Detection](#graph-attention-network-based-community-detection)
+  - [Graph Adversarial Network-based Community Detection](#graph-adversarial-network-based-community-detection)
+  - [Autoencoder-based Community Detection](#autoencoder-based-community-detection)
 	- [Stacked AE-based Community Detection](#stacked-ae-based-community-detection)
 	- [Sparse AE-based Community Detection](#sparse-ae-based-community-detection)
 	- [Denoising AE-based Community Detection](#denoising-ae-based-community-detection)
 	- [Graph Convolutional AE-based Community Detection](#graph-convolutional-ae-based-community-detection)
 	- [Graph Attention AE-based Community Detection](#graph-attention-ae-based-community-detection)
 	- [Variational AE-based Community Detection](#variational-ae-based-community-detection)
-  - [Deep Nonnegative Matrix Factorization (NMF)-based Community Detection](#deep-nmf-based-community-detection)
-  - [Deep Sparse Filtering (SF)-based Community Detection](#deep-sf-based-community-detection)
+  - [Deep Nonnegative Matrix Factorization-based Community Detection](#deep-nonnegative-matrix-factorization-based-community-detection)
+  - [Deep Sparse Filtering-based Community Detection](#deep-sparse-filtering-based-community-detection)
   - [Datasets](#datasets)
   - [Tools](#tools)
 
@@ -95,13 +95,13 @@ __Adaptive graph encoder for attributed graph embedding__. SIGKDD 2020. _Cui et 
 __CayleyNets: Graph convolutional neural networks with complex rational spectral filters__.  IEEE Transactions on Signal Processing 2019. _Levie et al._. [[Paper](https://ieeexplore.ieee.org/document/8521593)] [[Code](https://github.com/amoliu/CayleyNet)]
 
 
-## Graph Attention Network(GAT)-based Community Detection
+## Graph Attention Network-based Community Detection
 __Unsupervised Attributed Multiplex Network Embedding__. AAAI 2020. _Park et al._. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5985)]
 
 __MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding__. WWW 2020. _Fu et al._. [[Paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380297)]
 
 
-## Graph Adversarial Network(GAN)-based Community Detection
+## Graph Adversarial Network-based Community Detection
 __SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks__. KDD 2020. _Zhang et al._. [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403154)] 
 
 __Multi-Class Imbalanced Graph Convolutional Network Learning__. IJCAI 2020. _Shi et al._. [[Paper](https://www.ijcai.org/proceedings/2020/398)]
@@ -113,7 +113,7 @@ __ProGAN: Network Embedding via Proximity Generative Adversarial Network__. KDD 
 __CommunityGAN: Community detection with generative adversarial nets__. WWW 2019. _Jia et al._. [[Paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313564)] [[Code](https://github.com/SamJia/CommunityGAN)]
 
 
-## Autoencoder(AE)-based Community Detection
+## Autoencoder-based Community Detection
 ### Stacked AE-based Community Detection
 
 __Modularity based community detection with deep learning__. IJCAI 2016. _Yang et al._. [[Paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)] [[Code](http://yangliang.github.io/code/DC.zip)]
@@ -179,7 +179,7 @@ __Adversarially regularized graph autoencoder for graph embedding__. IJCAI 2018.
 __Optimizing variational graph autoencoder for community detection__. BigData 2019. _Choong et al._. [[Paper](https://ieeexplore.ieee.org/abstract/document/9006123)]
 
 
-## Deep Nonnegative Matrix Factorization (NMF)-based Community Detection 
+## Deep Nonnegative Matrix Factorization-based Community Detection 
 
 __Deep autoencoder-like nonnegative matrix factorization for community detection__. CIKM 2018. _Ye et al._. [[Paper](https://dl.acm.org/doi/10.1145/3269206.3271697)] [[Code](https://github.com/benedekrozemberczki/DANMF)]
 
@@ -187,7 +187,7 @@ __A Non-negative Symmetric Encoder-Decoder Approach for Community Detection__. C
 
 __Community detection based on modularized deep nonnegative matrix factorization__. International Journal of Pattern Recognition and Artificial Intelligence 2020. _Huang et al._. [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590060)]
 
-## Deep SF-based Approaches
+## Deep Sparse Filtering-based Community Detection
 __Community discovery in networks with deep sparse filtering__. Pattern Recognition 2018. _Xie et al._. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)]
 
 
