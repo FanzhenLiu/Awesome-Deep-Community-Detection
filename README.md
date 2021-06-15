@@ -152,7 +152,6 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 |Stochastic blockmodels meet graph neural networks | ICML | 2019 | _Mehta et al._ | [[Paper](http://proceedings.mlr.press/v97/mehta19a/mehta19a.pdf)][[Code](https://github.com/nikhil-dce/SBM-meet-GNN)] |
 |Variational graph embedding and clustering with laplacian eigenmaps | IJCAI | 2019 | _Chen et al._ | [[Paper](https://www.ijcai.org/Proceedings/2019/0297.pdf)] |
 |Optimizing variational graph autoencoder for community detection | BigData | 2019 | _Choong et al._ | [[Paper](https://ieeexplore.ieee.org/abstract/document/9006123)] |
-
 |Learning community structure with variational autoencoder | ICDM | 2018 | _Choong et al._ | [[Paper](https://ieeexplore.ieee.org/document/8594831)] |
 |Adversarially regularized graph autoencoder for graph embedding | IJCAI | 2018 | _Pan et al._ | [[Paper](https://www.ijcai.org/Proceedings/2018/0362.pdf)][[Code](https://github.com/Ruiqi-Hu/ARGA)]| 
 
