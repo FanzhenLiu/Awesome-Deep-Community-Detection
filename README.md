@@ -144,7 +144,7 @@ __MGAE: Marginalized graph autoencoder for graph clustering__. CIKM 2017. _Wang 
 
 __Deep neural networks for learning graph representations__. AAAI 2016. _Cao et al._. [[paper](https://dl.acm.org/doi/10.5555/3015812.3015982)]
 
-__Graph clustering with dynamic embedding__. arXiv. Yang et al._. [[paper](https://arxiv.org/abs/1712.08249)] 
+__Graph clustering with dynamic embedding__. arXiv 2017. _Yang et al._. [[paper](https://arxiv.org/abs/1712.08249)] 
 
 ### Graph Convolutional AE-based Community Detection
 
