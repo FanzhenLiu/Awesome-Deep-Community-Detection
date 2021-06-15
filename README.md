@@ -228,5 +228,5 @@ __Community discovery in networks with deep sparse filtering__. Pattern Recognit
 ----------
 **Disclaimer**
 
-If you have any questions, please feel free to contact me.
-Email: <u>fanzhen.liu@hdr.mq.edu.au</u>
+If you have any questions, please feel free to contact us.
+Emails: <u>fanzhen.liu@hdr.mq.edu.au</u>, <u>xing.su2@hdr.mq.edu.au</u>
