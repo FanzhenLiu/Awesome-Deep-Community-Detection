@@ -55,14 +55,14 @@ Link: https://www.ijcai.org/Proceedings/2020/693
     }
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-| Community detection in node-attributed social networks: A survey | Computer Science Review | 2020 | _Petr Chunaev_ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1574013720303865)] | 
-| Community detection with the Label Propagation Algorithm: A survey | Physica A | 2019 | _Sara E. Garza and Satu Elisa Schaeffer_ | [[Paper](https://www.sciencedirect.com/science/article/pii/S0378437119312026)] | 
+| Community detection in node-attributed social networks: A survey | Computer Science Review | 2020 | _Petr Chunaev_ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1574013720303865)] |
 | Community detection in networks: A multidisciplinary review | Journal of Network and Computer Applications | 2018|  _Javed et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)] |
-| Community discovery in dynamic networks: A Survey | ACM Computing Surveys | 2018 | _Giulio Rossetti and Remy Cazabet._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+| Community discovery in dynamic networks: A Survey | ACM Computing Surveys | 2018 | _Giulio Rossetti and Remy Cazabet_ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | Evolutionary computation for community detection in networks: A review | IEEE TEVC | 2018 | _Clara Pizzuti_ | [[Paper](https://ieeexplore.ieee.org/document/8004509)] |
-|Metrics for community analysis: A survey | ACM Computing Surveys | 2017 | _Chakraborty et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3091106)] |
-|Network Community Detection: A Review and Visual Survey | Preprint | 2017 | _Bisma S. Khan and Muaz A. Niazi_. | [[Paper](https://arxiv.org/abs/1708.00977)] |
-|Community detection: A user guide | Physics Reports | 2016 | _Santo Fortunato and Darko Hric_ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157316302964)] |
+| Metrics for community analysis: A survey | ACM Computing Surveys | 2017 | _Chakraborty et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3091106)] |
+| Network Community Detection: A Review and Visual Survey | Preprint | 2017 | _Bisma S. Khan and Muaz A. Niazi_ | [[Paper](https://arxiv.org/abs/1708.00977)] |
+| Community detection in networks: A user guide | Physics Reports | 2016 | _Santo Fortunato and Darko Hric_ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157316302964)] |
+| Community detection in social networks | WIREs Data Mining Knowledge Discovery | 2016 | _Punam Bedi and Chhavi Sharma_ | [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1178)]|
 
 ----------
 ## Convolutional Networks-based Community Detection
