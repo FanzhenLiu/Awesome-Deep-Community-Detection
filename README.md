@@ -59,7 +59,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 | Community detection with the Label Propagation Algorithm: A survey | Physica A | 2019 | _Sara E. Garza and Satu Elisa Schaeffer_ | [[Paper](https://www.sciencedirect.com/science/article/pii/S0378437119312026)] | 
 | Community detection in networks: A multidisciplinary review | Journal of Network and Computer Applications | 2018|  _Javed et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)] |
 | Community discovery in dynamic networks: A Survey | ACM Computing Surveys | 2018 | _Giulio Rossetti and Remy Cazabet._ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
-| Evolutionary computation for community detection in networks: A review | IEEE Transactions on Evolutionary Computation | 2018 | _Clara Pizzuti_ | [[Paper](https://ieeexplore.ieee.org/document/8004509)] |
+| Evolutionary computation for community detection in networks: A review | IEEE TEVC | 2018 | _Clara Pizzuti_ | [[Paper](https://ieeexplore.ieee.org/document/8004509)] |
 |Metrics for community analysis: A survey | ACM Computing Surveys | 2017 | _Chakraborty et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3091106)] |
 |Network Community Detection: A Review and Visual Survey | Preprint | 2017 | _Bisma S. Khan and Muaz A. Niazi_. | [[Paper](https://arxiv.org/abs/1708.00977)] |
 |Community detection: A user guide | Physics Reports | 2016 | _Santo Fortunato and Darko Hric_ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157316302964)] |
@@ -119,7 +119,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ### Sparse AE-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
-|Stacked autoencoder-based community detection method via an ensemble clustering framework__ | Information Sciences | 2020 | _Xu et al._ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552030270X)] |
+|Stacked autoencoder-based community detection method via an ensemble clustering framework | Information Sciences | 2020 | _Xu et al._ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552030270X)] |
 |DFuzzy: A deep learning-based fuzzy clustering model for large graphs | Knowledge and Information Systems | 2018 | _Vandana Bhatia and Rinkle Rani_ | [[Paper](https://link.springer.com/article/10.1007/s10115-018-1156-3)] |
 |Learning deep representations for graph clustering | AAAI | 2014 | _Tian et al._ | [[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527/8571)][[Code](https://github.com/quinngroup/deep-representations-clustering)] |
 
