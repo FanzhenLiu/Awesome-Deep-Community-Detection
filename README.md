@@ -60,7 +60,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 | Community discovery in dynamic networks: A Survey | ACM Computing Surveys | 2018 | _Giulio Rossetti and Remy Cazabet_ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
 | Evolutionary computation for community detection in networks: A review | IEEE TEVC | 2018 | _Clara Pizzuti_ | [[Paper](https://ieeexplore.ieee.org/document/8004509)] |
 | Metrics for community analysis: A survey | ACM Computing Surveys | 2017 | _Chakraborty et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3091106)] |
-| Network Community Detection: A Review and Visual Survey | Preprint | 2017 | _Bisma S. Khan and Muaz A. Niazi_ | [[Paper](https://arxiv.org/abs/1708.00977)] |
+| Network community detection: A review and visual survey | Preprint | 2017 | _Bisma S. Khan and Muaz A. Niazi_ | [[Paper](https://arxiv.org/abs/1708.00977)] |
 | Community detection in networks: A user guide | Physics Reports | 2016 | _Santo Fortunato and Darko Hric_ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157316302964)] |
 | Community detection in social networks | WIREs Data Mining Knowledge Discovery | 2016 | _Punam Bedi and Chhavi Sharma_ | [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1178)]|
 
