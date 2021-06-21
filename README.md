@@ -183,11 +183,11 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 - LiveJournal http://snap.stanford.edu/data/soc-LiveJournal1.html
 - Gplus http://snap.stanford.edu/data/ego-Gplus.html
 ### Traditional Social Networks
-- Cellphone Calls, http://www.cs.umd.edu/hcil/VASTchallenge08/
-- Enron Mail, http://www.cs.cmu.edu/~enron/
+- Cellphone Calls http://www.cs.umd.edu/hcil/VASTchallenge08/
+- Enron Mail http://www.cs.cmu.edu/~enron/
 - Friendship https://dl.acm.org/doi/10.1145/2501654.2501657
 - Rados http://networkrepository.com/ia-radoslaw-email.php 
-- Karate, Football,Dolphin http://www-personal.umich.edu/~mejn/netdata/
+- Karate, Football, Dolphin http://www-personal.umich.edu/~mejn/netdata/
 ### Webpage Networks
 - IMDb https://www.imdb.com/
 - Wiki https://linqs.soe.ucsc.edu/data
@@ -200,9 +200,9 @@ Link: https://www.ijcai.org/Proceedings/2020/693
  
  ----------
 ## Tools
-- Gephi, https://gephi.org/
-- Pajek, http://mrvar.fdv.uni-lj.si/pajek/
-- LFR, https://www.santofortunato.net/resources
+- Gephi https://gephi.org/
+- Pajek http://mrvar.fdv.uni-lj.si/pajek/
+- LFR https://www.santofortunato.net/resources
 
 ----------
 **Disclaimer**
