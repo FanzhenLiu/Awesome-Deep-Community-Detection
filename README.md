@@ -90,6 +90,8 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ## Graph Attention Network-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
+|HDMI: High-order deep multiplex infomax | WWW | 2021 | _Jing et al._ | [[Paper](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449971)][[Code](https://github.com/baoyujing/HDMI)] |
+|Self-supervised heterogeneous graph neural network with co-contrastive learning | KDD | 2021 | _Wang et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3447548.3467415)][[Code](https://github.com/liun-online/HeCo)] |
 |Unsupervised attributed multiplex network embedding | AAAI | 2020 | _Park et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5985)][[Code](https://github.com/pcy1302/DMGI)] |
 |MAGNN: Metapath aggregated graph neural network for heterogeneous graph embedding | WWW | 2020 | _Fu et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380297)] [[Code](https://github.com/cynricfu/MAGNN)] |
 
@@ -109,7 +111,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
 |An evolutionary autoencoder for dynamic community detection | Science China Information Sciences | 2020 | _Wang et al._ | [[Paper](https://link.springer.com/article/10.1007/s11432-020-2827-9)] |
-| High-performance community detection in social networks using a deep transitive autoencoder | Information Sciences | 2019 | _Xie et al._ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025519303251)] |
+|High-performance community detection in social networks using a deep transitive autoencoder | Information Sciences | 2019 | _Xie et al._ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025519303251)] |
 |Integrative network embedding via deep joint reconstruction | IJCAI | 2018 | _Hongchang Gao and Heng Huang_ | [[Paper](https://www.ijcai.org/Proceedings/2018/0473.pdf)] |
 |Deep attributed network embedding | IJCAI | 2018 | _Gao et al._ | [[Paper](https://www.ijcai.org/Proceedings/2018/0467.pdf)][[Code](https://github.com/gaoghc/DANE)] |
 |Deep network embedding for graph representation learning in signed networks | IEEE TCYB | 2018 | _Xiao Sheng and Fu-Lai Chung_ | [[Paper](https://ieeexplore.ieee.org/document/8486671)][[Code](https://github.com/shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks)] |
