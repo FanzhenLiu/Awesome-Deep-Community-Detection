@@ -1,5 +1,6 @@
 # Awesome Deep Community Detection
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![GitHub stars](https://img.shields.io/github/stars/FanzhenLiu/awesome-deep-community-detection?color=yellow&label=Stars) ![GitHub forks](https://img.shields.io/github/forks/FanzhenLiu/awesome-deep-community-detection?color=blue&label=Forks) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A collection of papers on deep learning for community detection.
 
@@ -68,7 +69,6 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ### CNN-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-|A deep learning approach for semi-supervised community detection in online social networks | Knowledge-Based Systems | 2021 | _De Santo et al._ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121006079)] |
 |Edge classification based on convolutional neural networks for community detection in complex network | Physica A | 2020 | _Cai et al._ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437120304271)] |
 |A deep learning based community detection approach | SAC | 2019 | _Giancarlo Sperlí_ | [[Paper](https://doi.org/10.1145/3297280.3297574)] |
 |Deep community detection in topologically incomplete networks | Physica A | 2017 | _Xin et al._ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437116308342)] |
@@ -76,9 +76,6 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ### GCN-based Community Detection 
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-|Graph debiased contrastive learning with joint representation clustering | IJCAI | 2021 | _Zhao et al._ | [[Paper](https://www.ijcai.org/proceedings/2021/0473.pdf)] | 
-|Spectral embedding network for attributed graph clustering | Neural Networks | 2021 | _Zhang et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021002227)] | 
-|Unsupervised learning for community detection in attributed networks based on graph convolutional network | Neurocomputing | 2021 | _Wang et al._ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008110)] |
 |Adaptive graph encoder for attributed graph embedding | KDD | 2020 | _Cui et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403140)][[Code](https://github.com/thunlp/AGE)] |
 |CommDGI: Community detection oriented deep graph infomax | CIKM | 2020 | _Zhang et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412042)] | 
 |Going deep: Graph convolutional ladder-shape networks | AAAI | 2020 | _Hu et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5673/5529)] |
@@ -93,7 +90,6 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ## Graph Attention Network-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
-|Detecting communities from heterogeneous graphs: A context path-based graph neural network model | CIKM | 2021 | _Luo et al._ | [[Paper](https://arxiv.org/pdf/2109.02058.pdf)][[Code](https://github.com/RManLuo/CP-GNN)] | 
 |HDMI: High-order deep multiplex infomax | WWW | 2021 | _Jing et al._ | [[Paper](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449971)][[Code](https://github.com/baoyujing/HDMI)] |
 |Self-supervised heterogeneous graph neural network with co-contrastive learning | KDD | 2021 | _Wang et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3447548.3467415)][[Code](https://github.com/liun-online/HeCo)] |
 |Unsupervised attributed multiplex network embedding | AAAI | 2020 | _Park et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5985)][[Code](https://github.com/pcy1302/DMGI)] |
@@ -103,10 +99,8 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ## Graph Adversarial Network-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
-|Self-training enhanced: Network embedding and overlapping community detection with adversarial learning | IEEE TNNLS | 2021 | _Chen et al._ | [[Paper]](https://ieeexplore.ieee.org/document/9451542) | 
-|CANE: Community-aware network embedding via adversarial training | Knowledge and Information Systems | 2021 | _Wang et al._ | [[Paper]](https://link.springer.com/article/10.1007%2Fs10115-020-01521-9) | 
 |SEAL: Learning heuristics for community detection with generative adversarial networks | KDD | 2020 | _Zhang et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403154)][[Code](https://github.com/yzhang1918/kdd2020seal)] |
-|Multi-class imbalanced graph convolutional network learning | IJCAI | 2020 | _Shi et al._ | [[Paper](https://www.ijcai.org/proceedings/2020/0398.pdf)] |
+|Multi-class imbalanced graph convolutional network learning | IJCAI | 2020 | _Shi et al._ | [[Paper](https://www.ijcai.org/proceedings/2020/398)] |
 |JANE: Jointly adversarial network embedding | IJCAI | 2020| _Yang et al._ | [[Paper](https://www.ijcai.org/Proceedings/2020/0192.pdf)] |
 |ProGAN: Network embedding via proximity generative adversarial network | KDD | 2019 | _Gao et al._ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330866)] |
 |CommunityGAN: Community detection with generative adversarial nets | WWW | 2019 | _Jia et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313564)][[Code](https://github.com/SamJia/CommunityGAN)] |
@@ -127,7 +121,6 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ### Sparse AE-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
-|A weighted network community detection algorithm based on deep learning | Applied Mathematics and Computation | 2021 | _Li et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S0096300321000606)] |
 |Stacked autoencoder-based community detection method via an ensemble clustering framework | Information Sciences | 2020 | _Xu et al._ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552030270X)] |
 |DFuzzy: A deep learning-based fuzzy clustering model for large graphs | Knowledge and Information Systems | 2018 | _Vandana Bhatia and Rinkle Rani_ | [[Paper](https://link.springer.com/article/10.1007/s10115-018-1156-3)] |
 |Learning deep representations for graph clustering | AAAI | 2014 | _Tian et al._ | [[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527/8571)][[Code](https://github.com/quinngroup/deep-representations-clustering)] |
@@ -135,7 +128,6 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ### Denoising AE-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
-| DNC: A deep neural network-based clustering-oriented network embedding algorithm | Journal of Network and Computer Applications | 2021 | _Li et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804520303209)] |
 |MGAE: Marginalized graph autoencoder for graph clustering | CIKM | 2017 | _Wang et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3132847.3132967)][[Code](https://github.com/FakeTibbers/MGAE)] |
 |Graph clustering with dynamic embedding | Preprint | 2017 | _Yang et al._ | [[Paper](https://arxiv.org/abs/1712.08249)] | 
 |Deep neural networks for learning graph representations | AAAI | 2016 | _Cao et al._ | [[Paper](https://dl.acm.org/doi/10.5555/3015812.3015982)] |
@@ -143,7 +135,6 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ### Graph Convolutional AE-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
-|Self-supervised graph convolutional network for multi-view clustering | IEEE TMM | 2021 | _Xia et al._ | [[Paper](https://ieeexplore.ieee.org/document/9472979)] | 
 |Community-centric graph convolutional network for unsupervised community detection | IJCAI | 2020 | _He et al._ | [[Paper](https://www.ijcai.org/Proceedings/2020/0486.pdf)] |
 |Structural deep clustering network |  WWW | 2020 | _Bo et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3366423.3380214)][[Code](https://github.com/bdy9527/SDCN)] |
 |One2Multi graph autoencoder for multi-view graph clustering | WWW | 2020 | _Fan et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3366423.3380079)][[Code](https://github.com/googlebaba/WWW2020-O2MAC)] |
@@ -151,7 +142,6 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 ### Graph Attention AE-based Community Detection
 | Paper Title | Venue | Year | Authors | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
-|Graph embedding clustering: Graph attention auto-encoder with cluster-specificity distribution | Neural Networks | 2021 | _Xu et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021002008)][[Code](https://github.com/xdweixia/SGCMC)] |
 |Multi-view attribute graph convolution networks for clustering | IJCAI | 2020 | _Cheng et al._ | [[Paper](https://www.ijcai.org/Proceedings/2020/0411.pdf)] |
 |Deep multi-graph clustering via attentive cross-graph association | WSDM | 2020 | _Luo et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371806)][[Code](https://github.com/flyingdoog/DMGC)] |
 |Attributed graph clustering: A deep attentional embedding approach | IJCAI | 2019 | _Wang et al._ | [[Paper](https://www.ijcai.org/Proceedings/2019/0509.pdf)] |
