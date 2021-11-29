@@ -24,7 +24,7 @@ A collection of papers on deep learning for community detection.
 
 ----------
 ## Survey
-__A Comprehensive Survey on Community Detection with Deep Learning__. **29 Pages**, arXiv 2021. _Xing Su, Shan Xue, Fanzhen Liu, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu_. [[Paper](https://arxiv.org/pdf/2105.12584.pdf)] [[AMiner科技](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)]
+__A Comprehensive Survey on Community Detection with Deep Learning__. **29 Pages**, (Accepted by _IEEE TNNLS_). _Xing Su, Shan Xue, Fanzhen Liu, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu_. [[Paper](https://arxiv.org/pdf/2105.12584.pdf)] [[AMiner科技](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)]
 
 Link: https://arxiv.org/abs/2105.12584
 
