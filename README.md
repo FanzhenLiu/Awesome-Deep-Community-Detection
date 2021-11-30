@@ -24,11 +24,11 @@ A collection of papers on deep learning for community detection.
 
 ----------
 ## Traditional Methods _VS._ Deep Learninig-based Methods
-[![taxonomy](taxonomy.png)]
+![taxonomy](taxonomy.png)
 
 ----------
 ## A Timeline of Community Detection Development
-[![timeline](timeline.png)]
+![timeline](timeline.png)
 
 ----------
 ## Survey
