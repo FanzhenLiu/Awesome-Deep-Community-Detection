@@ -32,10 +32,7 @@ A collection of papers on deep learning for community detection.
 
 ----------
 ## Survey
-__A Comprehensive Survey on Community Detection with Deep Learning__. IEEE TNNLS, 2022. _Xing Su, Shan Xue, Fanzhen Liu, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu_. [[Paper](https://ieeexplore.ieee.org/document/9732192)] [[arXiv](https://arxiv.org/pdf/2105.12584.pdf)] [[Report by ArnetMiner (AMiner)](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)]
-
-IEEE Link: https://ieeexplore.ieee.org/document/9732192
-arXiv Link: https://arxiv.org/abs/2105.12584
+__A Comprehensive Survey on Community Detection with Deep Learning__. IEEE TNNLS, 2022. _Xing Su, Shan Xue, Fanzhen Liu, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu_. [[Paper](https://ieeexplore.ieee.org/document/9732192)] [[ResearchGate](https://www.researchgate.net/publication/359131983_A_Comprehensive_Survey_on_Community_Detection_With_Deep_Learning)] [[Report by ArnetMiner (AMiner)](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)]
 
     @article{su2022survey,
     	author = {Su, Xing and Xue, Shan and Liu, Fanzhen and Wu, Jia and Yang, Jian and 
@@ -50,8 +47,6 @@ arXiv Link: https://arxiv.org/abs/2105.12584
 
 __Deep Learning for Community Detection: Progress, Challenges and Opportunities__. IJCAI 2020. _Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu_. [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[Report by AI Sicience and Technology Review ](https://cloud.tencent.com/developer/article/1632305)]
 
-Link: https://www.ijcai.org/Proceedings/2020/693
-
     @inproceedings{ijcai2020-693,
     	author = {Liu, Fanzhen and Xue, Shan and Wu, Jia and Zhou, Chuan and Hu, Wenbin and 
 		Paris, Cecile and Nepal, Surya and Yang, Jian and Yu, Philip S.},
@@ -65,6 +60,7 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 | Paper Title | Venue | Year | Materials | 
 | ---- | ---- | -- | ---- | 
 | A comprehensive survey on community detection with deep learning | IEEE TNNLS | 2022 | [[Paper]](https://ieeexplore.ieee.org/document/9732192)|
+| Deep learning for community detection: Progress, challenges and opportunities | IJCAI | 2020 | [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] | 
 | Community detection in node-attributed social networks: A survey | Comput. Sci. Rev. | 2020 | [[Paper](https://www.sciencedirect.com/science/article/pii/S1574013720303865)] |
 | Community detection in networks: A multidisciplinary review | J. Netw. Comput. Appl. | 2018| [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)] |
 | Community discovery in dynamic networks: A survey | ACM Comput. Surv. | 2018 | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
