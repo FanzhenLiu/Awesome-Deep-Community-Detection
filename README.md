@@ -32,7 +32,7 @@ A collection of papers on deep learning for community detection.
 
 ----------
 ## Survey
-__A Comprehensive Survey on Community Detection with Deep Learning__. IEEE TNNLS, 2022. _Xing Su, Shan Xue, Fanzhen Liu, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu_. [[Paper](https://ieeexplore.ieee.org/document/9732192)] [[arXiv](https://arxiv.org/pdf/2105.12584.pdf)] [[AMiner科技](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)]
+__A Comprehensive Survey on Community Detection with Deep Learning__. IEEE TNNLS, 2022. _Xing Su, Shan Xue, Fanzhen Liu, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu_. [[Paper](https://ieeexplore.ieee.org/document/9732192)] [[arXiv](https://arxiv.org/pdf/2105.12584.pdf)] [[Report by ArnetMiner (AMiner)](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)]
 
 IEEE Link: https://ieeexplore.ieee.org/document/9732192
 arXiv Link: https://arxiv.org/abs/2105.12584
@@ -48,7 +48,7 @@ arXiv Link: https://arxiv.org/abs/2105.12584
 		doi = {10.1109/TNNLS.2021.3137396}
     }
 
-__Deep Learning for Community Detection: Progress, Challenges and Opportunities__. IJCAI 2020. _Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu_. [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[AI科技评论](https://cloud.tencent.com/developer/article/1632305)]
+__Deep Learning for Community Detection: Progress, Challenges and Opportunities__. IJCAI 2020. _Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu_. [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[Report by AI Sicience and Technology Review ](https://cloud.tencent.com/developer/article/1632305)]
 
 Link: https://www.ijcai.org/Proceedings/2020/693
 
@@ -62,16 +62,20 @@ Link: https://www.ijcai.org/Proceedings/2020/693
 		pages = {4981-4987},
 		doi = {10.24963/ijcai.2020/693}
     }
-| Paper Title | Venue | Year | Authors | Materials | 
-| ---- | ---- | -- | ---- | ---- | 
-| Community detection in node-attributed social networks: A survey | Computer Science Review | 2020 | _Petr Chunaev_ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1574013720303865)] |
-| Community detection in networks: A multidisciplinary review | Journal of Network and Computer Applications | 2018|  _Javed et al._ | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)] |
-| Community discovery in dynamic networks: A Survey | ACM Computing Surveys | 2018 | _Giulio Rossetti and Remy Cazabet_ | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
-| Evolutionary computation for community detection in networks: A review | IEEE TEVC | 2018 | _Clara Pizzuti_ | [[Paper](https://ieeexplore.ieee.org/document/8004509)] |
-| Metrics for community analysis: A survey | ACM Computing Surveys | 2017 | _Chakraborty et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3091106)] |
-| Network community detection: A review and visual survey | Preprint | 2017 | _Bisma S. Khan and Muaz A. Niazi_ | [[Paper](https://arxiv.org/abs/1708.00977)] |
-| Community detection in networks: A user guide | Physics Reports | 2016 | _Santo Fortunato and Darko Hric_ | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157316302964)] |
-| Community detection in social networks | WIREs Data Mining Knowledge Discovery | 2016 | _Punam Bedi and Chhavi Sharma_ | [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1178)]|
+| Paper Title | Venue | Year | Materials | 
+| ---- | ---- | -- | ---- | 
+| A comprehensive survey on community detection with deep learning | IEEE TNNLS | 2022 | [[Paper]](https://ieeexplore.ieee.org/document/9732192)|
+| Community detection in node-attributed social networks: A survey | Comput. Sci. Rev. | 2020 | [[Paper](https://www.sciencedirect.com/science/article/pii/S1574013720303865)] |
+| Community detection in networks: A multidisciplinary review | J. Netw. Comput. Appl. | 2018| [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)] |
+| Community discovery in dynamic networks: A survey | ACM Comput. Surv. | 2018 | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
+| Evolutionary computation for community detection in networks: A review | IEEE TEVC | 2018 | [[Paper](https://ieeexplore.ieee.org/document/8004509)] |
+| Metrics for community analysis: A survey | ACM Comput. Surv. | 2017 | [[Paper](https://dl.acm.org/doi/10.1145/3091106)] |
+| Network community detection: A review and visual survey | Preprint | 2017 | [[Paper](https://arxiv.org/abs/1708.00977)] |
+| Community detection in networks: A user guide | Phys. Rep. | 2016 | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157316302964)] |
+| Community detection in social networks | WIREs Data Min. Knowl. Discov. | 2016 | [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/widm.1178)]|
+| Overlapping community detection in networks: The state-of-the-art and comparative study| ACM Comput. Surv. | 2013 | [[Paper](https://dl.acm.org/doi/10.1145/2501654.2501657)] |
+| Clustering and community detection in directed networks: A survey | Phys. Rep. | 2013 | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157313002822)] |
+| Community detection in graphs | Phys. Rep. | 2010 | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157309002841)] |
 
 ----------
 ## Convolutional Networks-based Community Detection
