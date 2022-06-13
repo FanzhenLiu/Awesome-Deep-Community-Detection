@@ -109,7 +109,7 @@ __Deep Learning for Community Detection: Progress, Challenges and Opportunities_
 | DNC: A deep neural network-based clustering-oriented network embedding algorithm | J. Netw. Comput. Appl. | 2021 | DNC | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804520303209)] |
 |Self-supervised graph convolutional network for multi-view clustering | IEEE TMM | 2021 | SGCMC | [[Paper](https://ieeexplore.ieee.org/document/9472979)] |
 |Graph embedding clustering: Graph attention auto-encoder with cluster-specificity distribution | Neural Netw. | 2021 | GEC-CSD | [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021002008)][[Code](https://github.com/xdweixia/SGCMC)] |
-|An evolutionary autoencoder for dynamic community detection | Sci. China Inf. Sci. | 2020 |  <div style="width: 50pt">sE-Autoencoder</div>  | [[Paper](https://link.springer.com/article/10.1007/s11432-020-2827-9)] |
+|An evolutionary autoencoder for dynamic community detection | Sci. China Inf. Sci. | 2020 | sE\-Autoencoder | [[Paper](https://link.springer.com/article/10.1007/s11432-020-2827-9)] |
 |Stacked autoencoder-based community detection method via an ensemble clustering framework | Inf. Sci. | 2020 | CDMEC | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552030270X)] |
 |Community-centric graph convolutional network for unsupervised community detection | IJCAI | 2020 | GUCD | [[Paper](https://www.ijcai.org/Proceedings/2020/0486.pdf)] |
 |Structural deep clustering network |  WWW | 2020 | SDCN | [[Paper](https://dl.acm.org/doi/10.1145/3366423.3380214)][[Code](https://github.com/bdy9527/SDCN)] |
