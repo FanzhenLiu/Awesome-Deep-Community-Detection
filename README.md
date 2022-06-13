@@ -11,14 +11,7 @@ A collection of papers on deep learning for community detection.
   - [Graph Attention Network-based Community Detection](#graph-attention-network-based-community-detection)
   - [Graph Adversarial Network-based Community Detection](#graph-adversarial-network-based-community-detection)
   - [Autoencoder-based Community Detection](#autoencoder-based-community-detection)
-	- [Stacked AE-based Community Detection](#stacked-ae-based-community-detection)
-	- [Sparse AE-based Community Detection](#sparse-ae-based-community-detection)
-	- [Denoising AE-based Community Detection](#denoising-ae-based-community-detection)
-	- [Graph Convolutional AE-based Community Detection](#graph-convolutional-ae-based-community-detection)
-	- [Graph Attention AE-based Community Detection](#graph-attention-ae-based-community-detection)
-	- [Variational AE-based Community Detection](#variational-ae-based-community-detection)
-  - [Deep Nonnegative Matrix Factorization-based Community Detection](#deep-nonnegative-matrix-factorization-based-community-detection)
-  - [Deep Sparse Filtering-based Community Detection](#deep-sparse-filtering-based-community-detection)
+  - [Other Deep Learning-based Community Detection](#other-deep-learning-based-community-detection)
   - [Datasets](#datasets)
   - [Tools](#tools)
 
@@ -137,18 +130,13 @@ __Deep Learning for Community Detection: Progress, Challenges and Opportunities_
 |Learning deep representations for graph clustering | AAAI | 2014 | GraphEncoder | [[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527/8571)][[Code](https://github.com/quinngroup/deep-representations-clustering)] |
 
 ----------
-## Deep Nonnegative Matrix Factorization-based Community Detection 
+## Other Deep Learning-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
 |Community detection based on modularized deep nonnegative matrix factorization | Int. J. Pattern Recognit. Artif. Intell. | 2020 | MDNMF | [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590060)] |
 |Deep autoencoder-like nonnegative matrix factorization for community detection | CIKM | 2018 | DANMF | [[Paper](https://dl.acm.org/doi/10.1145/3269206.3271697)][[Code](https://github.com/benedekrozemberczki/DANMF)] |
-|A non-negative symmetric encoder-decoder approach for community detection | CIKM | 2017 | Sun _et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132902)] |
-
-----------
-## Deep Sparse Filtering-based Community Detection
-| Paper Title | Venue | Year | Method | Materials | 
-| ---- | ---- | ---- | ---- | ---- | 
 |Community discovery in networks with deep sparse filtering | Pattern Recognit. | 2018 | DSFCD | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)] |
+|A non-negative symmetric encoder-decoder approach for community detection | CIKM | 2017 | Sun _et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132902)] 
 
 ----------
 ## Datasets
