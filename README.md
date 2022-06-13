@@ -87,7 +87,7 @@ __Deep Learning for Community Detection: Progress, Challenges and Opportunities_
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | ---- | -- | ---- | ---- | 
 |Graph debiased contrastive learning with joint representation clustering | IJCAI | 2021 | Zhao _et al._ | [[Paper](https://www.ijcai.org/proceedings/2021/0473.pdf)] | 
-|Spectral embedding network for attributed graph clustering | Neural Networks | 2021 | SENet | [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021002227)] | 
+|Spectral embedding network for attributed graph clustering | Neural Netw. | 2021 | SENet | [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021002227)] | 
 |Unsupervised learning for community detection in attributed networks based on graph convolutional network | Neurocomputing | 2021 | SGCN | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008110)] |
 |Adaptive graph encoder for attributed graph embedding | KDD | 2020 | AGE | [[Paper](https://dl.acm.org/doi/10.1145/3394486.3403140)][[Code](https://github.com/thunlp/AGE)] |
 |CommDGI: Community detection oriented deep graph infomax | CIKM | 2020 | CommDGI | [[Paper](https://dl.acm.org/doi/abs/10.1145/3340531.3412042)] | 
