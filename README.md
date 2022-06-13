@@ -34,34 +34,13 @@ A collection of papers on deep learning for community detection.
 ## Survey
 __A Comprehensive Survey on Community Detection with Deep Learning__. IEEE TNNLS, 2022. _Xing Su, Shan Xue, Fanzhen Liu, Jia Wu, Jian Yang, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Di Jin, Quan Z. Sheng, Philip S. Yu_. [[Paper](https://ieeexplore.ieee.org/document/9732192)] [[ResearchGate](https://www.researchgate.net/publication/359131983_A_Comprehensive_Survey_on_Community_Detection_With_Deep_Learning)] [[Report by ArnetMiner (AMiner)](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)]
 
-    @article{su2022survey,
-    	author = {Su, Xing and Xue, Shan and Liu, Fanzhen and Wu, Jia and Yang, Jian and 
-		Zhou, Chuan and Hu, Wenbin and Paris, Cecile and Nepal, Surya and Jin, Di and 
-		Sheng, Quan Z. and Yu, Philip S.},
-		journal = {IEEE Transactions on Neural Networks and Learning Systems},
-		title = {A Comprehensive Survey on Community Detection with Deep Learning},
-		year = {2022},
-		pages = {1-21},
-		doi = {10.1109/TNNLS.2021.3137396}
-    }
+__Deep Learning for Community Detection: Progress, Challenges and Opportunities__. IJCAI 2020. _Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu_. [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[Report by AI Sci. Tech. Rev.](https://cloud.tencent.com/developer/article/1632305)]
 
-__Deep Learning for Community Detection: Progress, Challenges and Opportunities__. IJCAI 2020. _Fanzhen Liu, Shan Xue, Jia Wu, Chuan Zhou, Wenbin Hu, Cecile Paris, Surya Nepal, Jian Yang, Philip S. Yu_. [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] [[Report by AI Sicience and Technology Review ](https://cloud.tencent.com/developer/article/1632305)]
-
-    @inproceedings{ijcai2020-693,
-    	author = {Liu, Fanzhen and Xue, Shan and Wu, Jia and Zhou, Chuan and Hu, Wenbin and 
-		Paris, Cecile and Nepal, Surya and Yang, Jian and Yu, Philip S.},
-    	booktitle  = {Proceedings of the Twenty-Ninth International Joint Conference on
-		Artificial Intelligence, {IJCAI-20}},
-    	title = {Deep Learning for Community Detection: Progress, Challenges and Opportunities},
-    	year = {2020},
-		pages = {4981-4987},
-		doi = {10.24963/ijcai.2020/693}
-    }
 | Paper Title | Venue | Year | Materials | 
 | ---- | ---- | -- | ---- | 
-| A comprehensive survey on community detection with deep learning | IEEE TNNLS | 2022 | [[Paper](https://ieeexplore.ieee.org/document/9732192)]|
+| A comprehensive survey on community detection with deep learning | IEEE TNNLS | 2022 | [[Paper](https://ieeexplore.ieee.org/document/9732192)] <br> [[Report](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)] <br> [[Supplementary](https://www.researchgate.net/publication/359222598_Supplementary_DeepCommunityDetectionSurveypdf)]|
 | A survey of community detection approaches: From statistical modeling to deep learning | IEEE TKDE | 2021 | [[Paper](https://ieeexplore.ieee.org/abstract/document/9511798)]|
-| Deep learning for community detection: Progress, challenges and opportunities | IJCAI | 2020 | [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] | 
+| Deep learning for community detection: Progress, challenges and opportunities | IJCAI | 2020 | [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] <br>[[Report](https://cloud.tencent.com/developer/article/1632305)]| 
 | Community detection in node-attributed social networks: A survey | Comput. Sci. Rev. | 2020 | [[Paper](https://www.sciencedirect.com/science/article/pii/S1574013720303865)] |
 | Community detection in networks: A multidisciplinary review | J. Netw. Comput. Appl. | 2018| [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)] |
 | Community discovery in dynamic networks: A survey | ACM Comput. Surv. | 2018 | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
@@ -114,8 +93,8 @@ __Deep Learning for Community Detection: Progress, Challenges and Opportunities_
 ## Graph Adversarial Network-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
-|Self-training enhanced: Network embedding and overlapping community detection with adversarial learning | IEEE TNNLS | 2021 | ACNE | [[Paper]](https://ieeexplore.ieee.org/document/9451542) | 
-|CANE: Community-aware network embedding via adversarial training |Knowl. Inf. Syst. | 2021 | CANE | [[Paper]](https://link.springer.com/article/10.1007%2Fs10115-020-01521-9) | 
+|Self-training enhanced: Network embedding and overlapping community detection with adversarial learning | IEEE TNNLS | 2021 | ACNE | [[Paper](https://ieeexplore.ieee.org/document/9451542)] | 
+|CANE: Community-aware network embedding via adversarial training |Knowl. Inf. Syst. | 2021 | CANE | [[Paper](https://link.springer.com/article/10.1007%2Fs10115-020-01521-9)] | 
 |SEAL: Learning heuristics for community detection with generative adversarial networks | KDD | 2020 | SEAL | [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403154)][[Code](https://github.com/yzhang1918/kdd2020seal)] |
 |Multi-class imbalanced graph convolutional network learning | IJCAI | 2020 | DR-GCN | [[Paper](https://www.ijcai.org/proceedings/2020/0398.pdf)] |
 |JANE: Jointly adversarial network embedding | IJCAI | 2020| JANE | [[Paper](https://www.ijcai.org/Proceedings/2020/0192.pdf)] |
