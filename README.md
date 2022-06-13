@@ -59,7 +59,8 @@ __Deep Learning for Community Detection: Progress, Challenges and Opportunities_
     }
 | Paper Title | Venue | Year | Materials | 
 | ---- | ---- | -- | ---- | 
-| A comprehensive survey on community detection with deep learning | IEEE TNNLS | 2022 | [[Paper]](https://ieeexplore.ieee.org/document/9732192)|
+| A comprehensive survey on community detection with deep learning | IEEE TNNLS | 2022 | [[Paper](https://ieeexplore.ieee.org/document/9732192)]|
+| A survey of community detection approaches: From statistical modeling to deep learning | IEEE TKDE | 2021 | [[Paper](https://ieeexplore.ieee.org/abstract/document/9511798)]|
 | Deep learning for community detection: Progress, challenges and opportunities | IJCAI | 2020 | [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] | 
 | Community detection in node-attributed social networks: A survey | Comput. Sci. Rev. | 2020 | [[Paper](https://www.sciencedirect.com/science/article/pii/S1574013720303865)] |
 | Community detection in networks: A multidisciplinary review | J. Netw. Comput. Appl. | 2018| [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)] |
