@@ -129,7 +129,7 @@ __Deep Learning for Community Detection: Progress, Challenges and Opportunities_
 |Deep neural networks for learning graph representations | AAAI | 2016 | DNGR | [[Paper](https://dl.acm.org/doi/10.5555/3015812.3015982)] |
 |Learning deep representations for graph clustering | AAAI | 2014 | GraphEncoder | [[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527/8571)][[Code](https://github.com/quinngroup/deep-representations-clustering)] |
 
-----------
+----------   
 ## Other Deep Learning-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | ---- | ---- | ---- | ---- | 
