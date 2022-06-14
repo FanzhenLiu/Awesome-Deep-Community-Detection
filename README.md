@@ -172,7 +172,7 @@ __Deep Learning for Community Detection: Progress, Challenges and Opportunities_
 - Gephi https://gephi.org/
 - Pajek http://mrvar.fdv.uni-lj.si/pajek/
 - LFR https://www.santofortunato.net/resources
-
+ 
 ----------
 **Disclaimer**
 
