@@ -13,7 +13,7 @@ A collection of papers on deep learning for community detection.
   - [Autoencoder-based Community Detection](#autoencoder-based-community-detection)
   - [Other Deep Learning-based Community Detection](#other-deep-learning-based-community-detection)
   - [Datasets](#datasets)
-  - [Tools](#tools)
+  - [Tools](#tools)  
 
 ----------
 ## Traditional Methods _VS._ Deep Learninig-based Methods
