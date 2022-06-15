@@ -84,6 +84,7 @@ A collection of papers on deep learning for community detection.
 | ---- | ---- | ---- | ---- | ---- | 
 |Self-training enhanced: Network embedding and overlapping community detection with adversarial learning | IEEE TNNLS | 2021 | ACNE | [[Paper](https://ieeexplore.ieee.org/document/9451542)] | 
 |CANE: Community-aware network embedding via adversarial training |Knowl. Inf. Syst. | 2021 | CANE | [[Paper](https://link.springer.com/article/10.1007%2Fs10115-020-01521-9)] | 
+|Adversarial Learning of Balanced Triangles for Accurate Community Detection on Signed Networks |ICDM | 2021 | ABC | [[Paper](https://ieeexplore.ieee.org/document/9679159)] | 
 |SEAL: Learning heuristics for community detection with generative adversarial networks | KDD | 2020 | SEAL | [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403154)][[Code](https://github.com/yzhang1918/kdd2020seal)] |
 |Multi-class imbalanced graph convolutional network learning | IJCAI | 2020 | DR-GCN | [[Paper](https://www.ijcai.org/proceedings/2020/0398.pdf)] |
 |JANE: Jointly adversarial network embedding | IJCAI | 2020| JANE | [[Paper](https://www.ijcai.org/Proceedings/2020/0192.pdf)] |
