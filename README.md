@@ -12,6 +12,7 @@ A collection of papers on deep learning for community detection.
   - [Graph Adversarial Network-based Community Detection](#graph-adversarial-network-based-community-detection)
   - [Autoencoder-based Community Detection](#autoencoder-based-community-detection)
   - [Other Deep Learning-based Community Detection](#other-deep-learning-based-community-detection)
+  - [Non-Deep Learning-based Communtiy Detection](#non-deep-learning-based-communtiy-detection)
   - [Datasets](#datasets)
   - [Tools](#tools)  
 
@@ -26,7 +27,7 @@ A collection of papers on deep learning for community detection.
 ----------
 ## Survey
 | Paper Title | Venue | Year | Materials | 
-| ---- | ---- | -- | ---- | 
+| ---- | :----: | :----: | :----: | 
 | A comprehensive survey on community detection with deep learning | IEEE TNNLS | 2022 | [[Paper](https://ieeexplore.ieee.org/document/9732192)] <br> [[Report](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)] <br> [[Supplementary](https://www.researchgate.net/publication/359222598_Supplementary_DeepCommunityDetectionSurveypdf)]|
 | A survey of community detection approaches: From statistical modeling to deep learning | IEEE TKDE | 2021 | [[Paper](https://ieeexplore.ieee.org/abstract/document/9511798)]|
 | Deep learning for community detection: Progress, challenges and opportunities | IJCAI | 2020 | [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] <br>[[Report](https://cloud.tencent.com/developer/article/1632305)]| 
@@ -46,7 +47,7 @@ A collection of papers on deep learning for community detection.
 ## Convolutional Networks-based Community Detection
 ### CNN-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
-| ---- | ---- | -- | ---- | ---- | 
+| ---- | :----: | :----: | :----: | :----: | 
 |A deep learning approach for semi-supervised community detection in online social networks | Knowl.-Based Syst. | 2021 | SparseConv2D | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121006079)] |
 |Edge classification based on convolutional neural networks for community detection in complex network | Physica A | 2020 | ComNet-R | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437120304271)] |
 |A deep learning based community detection approach | SAC | 2019 | SparseConv | [[Paper](https://doi.org/10.1145/3297280.3297574)] |
@@ -54,7 +55,7 @@ A collection of papers on deep learning for community detection.
 
 ### GCN-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
-| ---- | ---- | -- | ---- | ---- | 
+| ---- | :----: | :----: | :----: | :----: | 
 |Graph debiased contrastive learning with joint representation clustering | IJCAI | 2021 | Zhao _et al._ | [[Paper](https://www.ijcai.org/proceedings/2021/0473.pdf)] | 
 |Spectral embedding network for attributed graph clustering | Neural Netw. | 2021 | SENet | [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021002227)] | 
 |Unsupervised learning for community detection in attributed networks based on graph convolutional network | Neurocomputing | 2021 | SGCN | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008110)] |
@@ -71,7 +72,7 @@ A collection of papers on deep learning for community detection.
 ----------
 ## Graph Attention Network-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
-| ---- | ---- | -- | ---- | ---- | 
+| ---- | :----: | :----: | :----: | :----: | 
 |Detecting communities from heterogeneous graphs: A context path-based graph neural network model | CIKM | 2021 | CP-GNN | [[Paper](https://arxiv.org/pdf/2109.02058.pdf)][[Code](https://github.com/RManLuo/CP-GNN)] | 
 |HDMI: High-order deep multiplex infomax | WWW | 2021 | HDMI | [[Paper](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449971)][[Code](https://github.com/baoyujing/HDMI)] |
 |Self-supervised heterogeneous graph neural network with co-contrastive learning | KDD | 2021 | HeCo | [[Paper](https://dl.acm.org/doi/10.1145/3447548.3467415)][[Code](https://github.com/liun-online/HeCo)] |
@@ -81,7 +82,7 @@ A collection of papers on deep learning for community detection.
 ----------
 ## Graph Adversarial Network-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
-| ---- | ---- | ---- | ---- | ---- | 
+| ---- | :----: | :----: | :----: | :----: | 
 |Self-training enhanced: Network embedding and overlapping community detection with adversarial learning | IEEE TNNLS | 2021 | ACNE | [[Paper](https://ieeexplore.ieee.org/document/9451542)] | 
 |CANE: Community-aware network embedding via adversarial training |Knowl. Inf. Syst. | 2021 | CANE | [[Paper](https://link.springer.com/article/10.1007%2Fs10115-020-01521-9)] | 
 |Adversarial Learning of Balanced Triangles for Accurate Community Detection on Signed Networks |ICDM | 2021 | ABC | [[Paper](https://ieeexplore.ieee.org/document/9679159)] | 
@@ -94,7 +95,7 @@ A collection of papers on deep learning for community detection.
 ----------
 ## Autoencoder-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
-| ---- | ---- | ---- | ---- | ---- | 
+| ---- | :----: | :----: | :----: | :----: | 
 |A weighted network community detection algorithm based on deep learning | Appl. Math. Comput. | 2021 | WCD | [[Paper](https://www.sciencedirect.com/science/article/pii/S0096300321000606)] |
 | DNC: A deep neural network-based clustering-oriented network embedding algorithm | J. Netw. Comput. Appl. | 2021 | DNC | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804520303209)] |
 |Self-supervised graph convolutional network for multi-view clustering | IEEE TMM | 2021 | SGCMC | [[Paper](https://ieeexplore.ieee.org/document/9472979)] |
@@ -126,14 +127,26 @@ A collection of papers on deep learning for community detection.
 |Deep neural networks for learning graph representations | AAAI | 2016 | DNGR | [[Paper](https://dl.acm.org/doi/10.5555/3015812.3015982)] |
 |Learning deep representations for graph clustering | AAAI | 2014 | GraphEncoder | [[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527/8571)][[Code](https://github.com/quinngroup/deep-representations-clustering)] |
 
-----------   
+----------
 ## Other Deep Learning-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
-| ---- | ---- | ---- | ---- | ---- | 
+| ---- | :----: | :----: | :----: | :----: | 
 |Community detection based on modularized deep nonnegative matrix factorization | Int. J. Pattern Recognit. Artif. Intell. | 2020 | MDNMF | [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590060)] |
 |Deep autoencoder-like nonnegative matrix factorization for community detection | CIKM | 2018 | DANMF | [[Paper](https://dl.acm.org/doi/10.1145/3269206.3271697)][[Code](https://github.com/benedekrozemberczki/DANMF)] |
 |Community discovery in networks with deep sparse filtering | Pattern Recognit. | 2018 | DSFCD | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)] |
-|A non-negative symmetric encoder-decoder approach for community detection | CIKM | 2017 | Sun _et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132902)] 
+|A non-negative symmetric encoder-decoder approach for community detection | CIKM | 2017 | Sun _et al._ | [[Paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132902)] |
+
+----------
+## Non-Deep Learning-based Communtiy Detection
+| Paper Title | Venue | Year | Method | Materials |
+| ---- | :----: | :----: | :----: | :----: |
+|Detecting the evolving community structure in dynamic social networks| World Wide Web J. | 2020 | DECS | [[Paper](https://link.springer.com/article/10.1007/s11280-019-00710-z)][[Code](https://github.com/FanzhenLiu/DECS)] |
+|Community detection in complex networks using structural similarity | Physica A | 2018 | CDASS | [[Paper](https://www.sciencedirect.com/science/article/pii/S0378437118303066)] |
+| A multi-agent genetic algorithm for community detection in complex networks | Physica A | 2016 | MAGA-Net | [[Paper](https://www.sciencedirect.com/science/article/pii/S0378437115011632)] |
+| General optimization technique for high-quality community detection in complex networks | Phys. Rev. E | 2014 | Combo | [[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)] |
+|The Laplacian spectrum of neural networks | Front. Comput. Neurosci. | 2014 | _de Lange et al._| [[Paper](https://www.frontiersin.org/articles/10.3389/fncom.2013.00189/full)] |
+|Spectral methods for community detection and graph partitioning | Phys. Rev. E | 2013 | -- | [[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.042822)] |
+|Stochastic blockmodels and community structure in networks | Phys. Rev. E | 2011 | DCSBM | [[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.83.016107)] |
 
 ----------
 ## Datasets
