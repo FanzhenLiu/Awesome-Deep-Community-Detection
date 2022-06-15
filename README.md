@@ -140,11 +140,8 @@ A collection of papers on deep learning for community detection.
 ## Non-Deep Learning-based Communtiy Detection
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
-|Detecting the evolving community structure in dynamic social networks| World Wide Web J. | 2020 | DECS | [[Paper](https://link.springer.com/article/10.1007/s11280-019-00710-z)][[Code](https://github.com/FanzhenLiu/DECS)] |
-|Community detection in complex networks using structural similarity | Physica A | 2018 | CDASS | [[Paper](https://www.sciencedirect.com/science/article/pii/S0378437118303066)] |
-| A multi-agent genetic algorithm for community detection in complex networks | Physica A | 2016 | MAGA-Net | [[Paper](https://www.sciencedirect.com/science/article/pii/S0378437115011632)] |
+|Improved mutual information measure for clustering, classification, and community detection | Phys. Rev. E | 2020 | -- | [[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.042304)] |
 | General optimization technique for high-quality community detection in complex networks | Phys. Rev. E | 2014 | Combo | [[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)] |
-|The Laplacian spectrum of neural networks | Front. Comput. Neurosci. | 2014 | _de Lange et al._| [[Paper](https://www.frontiersin.org/articles/10.3389/fncom.2013.00189/full)] |
 |Spectral methods for community detection and graph partitioning | Phys. Rev. E | 2013 | -- | [[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.042822)] |
 |Stochastic blockmodels and community structure in networks | Phys. Rev. E | 2011 | DCSBM | [[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.83.016107)] |
 
