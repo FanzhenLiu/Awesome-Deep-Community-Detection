@@ -28,7 +28,6 @@ A collection of papers on deep learning for community detection.
 ## Survey
 | Paper Title | Venue | Year | Materials | 
 | ---- | :----: | :----: | :----: | 
-| PyTorch Geometric Signed Directed: A Survey and Software on Graph Neural Networks for Signed and Directed Graphs | Preprint | 2022 | [[Paper](https://arxiv.org/pdf/2202.10793.pdf)] <br> [[Library](https://github.com/SherylHYX/pytorch_geometric_signed_directed)] <br> [[Docs](https://pytorch-geometric-signed-directed.readthedocs.io/en/latest/)]|
 | A comprehensive survey on community detection with deep learning | IEEE TNNLS | 2022 | [[Paper](https://ieeexplore.ieee.org/document/9732192)] <br> [[Report](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)] <br> [[Supplementary](https://www.researchgate.net/publication/359222598_Supplementary_DeepCommunityDetectionSurveypdf)]|
 | A survey of community detection approaches: From statistical modeling to deep learning | IEEE TKDE | 2021 | [[Paper](https://ieeexplore.ieee.org/abstract/document/9511798)]|
 | Deep learning for community detection: Progress, challenges and opportunities | IJCAI | 2020 | [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] <br>[[Report](https://cloud.tencent.com/developer/article/1632305)]| 
