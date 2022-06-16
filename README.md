@@ -190,4 +190,4 @@ A collection of papers on deep learning for community detection.
 **Disclaimer**
 
 If you have any questions, please feel free to contact us.
-Emails: <u>fanzhen.liu@hdr.mq.edu.au</u>, <u>xing.su2@hdr.mq.edu.au</u> <u>jia.wu@mq.edu.au</u>
+Emails: <u>fanzhen.liu@hdr.mq.edu.au</u>, <u>xing.su2@hdr.mq.edu.au</u>, <u>jia.wu@mq.edu.au</u>
