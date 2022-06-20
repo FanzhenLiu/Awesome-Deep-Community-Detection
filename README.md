@@ -97,6 +97,7 @@ A collection of papers on deep learning for community detection.
 ## Autoencoder-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|Exploring Temporal Community Structure via Network Embedding|IEEE TCYB|2022|VGRGMM| [[Paper](https://ieeexplore.ieee.org/abstract/document/9768181)]|
 |A weighted network community detection algorithm based on deep learning | Appl. Math. Comput. | 2021 | WCD | [[Paper](https://www.sciencedirect.com/science/article/pii/S0096300321000606)] |
 | DNC: A deep neural network-based clustering-oriented network embedding algorithm | J. Netw. Comput. Appl. | 2021 | DNC | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804520303209)] |
 |Self-supervised graph convolutional network for multi-view clustering | IEEE TMM | 2021 | SGCMC | [[Paper](https://ieeexplore.ieee.org/document/9472979)] |
