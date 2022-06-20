@@ -152,6 +152,7 @@ A collection of papers on deep learning for community detection.
 |General optimization technique for high-quality community detection in complex networks | Phys. Rev. E | 2014 | Combo | [[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.012811)] |
 |Spectral methods for community detection and graph partitioning | Phys. Rev. E | 2013 | -- | [[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.042822)] |
 |Stochastic blockmodels and community structure in networks | Phys. Rev. E | 2011 | DCSBM | [[Paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.83.016107)] |
+|Parallel Overlapping Community Detection Algorithm on GPU | IEEE TBD | 2022 | GPU B-Tree | [[Paper](https://ieeexplore.ieee.org/document/9789483)] |
 
 ----------
 ## Datasets
