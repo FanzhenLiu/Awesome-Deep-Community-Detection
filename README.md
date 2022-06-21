@@ -57,6 +57,7 @@ A collection of papers on deep learning for community detection.
 ### GCN-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|Geometric Graph Representation Learning via Maximizing Rate Reduction | WWW | 2022 | $G^2R$ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512170)] [[Code](https://github.com/ahxt/G2R)] | 
 |SSSNET: Semi-supervised signed network clustering | SDM | 2022 | SSSNET | [[Paper](https://arxiv.org/pdf/2110.06623.pdf)] [[Code](https://github.com/SherylHYX/SSSNET_Signed_Clustering)] | 
 |Graph debiased contrastive learning with joint representation clustering | IJCAI | 2021 | Zhao _et al._ | [[Paper](https://www.ijcai.org/proceedings/2021/0473.pdf)] | 
 |Spectral embedding network for attributed graph clustering | Neural Netw. | 2021 | SENet | [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021002227)] | 
