@@ -31,6 +31,7 @@ A collection of papers on deep learning for community detection.
 | A comprehensive survey on community detection with deep learning | IEEE TNNLS | 2022 | [[Paper](https://ieeexplore.ieee.org/document/9732192)] <br> [[Report](https://www.aminer.cn/research_report/60da8c5f30e4d5752f50e7af)] <br> [[Supplementary](https://www.researchgate.net/publication/359222598_Supplementary_DeepCommunityDetectionSurveypdf)]|
 | A survey of community detection approaches: From statistical modeling to deep learning | IEEE TKDE | 2021 | [[Paper](https://ieeexplore.ieee.org/abstract/document/9511798)]|
 | Deep learning for community detection: Progress, challenges and opportunities | IJCAI | 2020 | [[Paper](https://www.ijcai.org/Proceedings/2020/0693.pdf)] <br>[[Report](https://cloud.tencent.com/developer/article/1632305)]| 
+| A survey of community detection methods in multilayer networks | Data Min. Knowl. Discov. | 2020 | [[Paper](https://link.springer.com/article/10.1007/s10618-020-00716-6)] |
 | Community detection in node-attributed social networks: A survey | Comput. Sci. Rev. | 2020 | [[Paper](https://www.sciencedirect.com/science/article/pii/S1574013720303865)] |
 | Community detection in networks: A multidisciplinary review | J. Netw. Comput. Appl. | 2018| [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804518300560)] |
 | Community discovery in dynamic networks: A survey | ACM Comput. Surv. | 2018 | [[Paper](https://dl.acm.org/doi/10.1145/3172867)] |
@@ -97,7 +98,7 @@ A collection of papers on deep learning for community detection.
 ## Autoencoder-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
-|Exploring Temporal Community Structure via Network Embedding|IEEE TCYB|2022|VGRGMM| [[Paper](https://ieeexplore.ieee.org/abstract/document/9768181)]|
+|Exploring Temporal Community Structure via Network Embedding | IEEE TCYB | 2022 | VGRGMM | [[Paper](https://ieeexplore.ieee.org/abstract/document/9768181)]|
 |A weighted network community detection algorithm based on deep learning | Appl. Math. Comput. | 2021 | WCD | [[Paper](https://www.sciencedirect.com/science/article/pii/S0096300321000606)] |
 | DNC: A deep neural network-based clustering-oriented network embedding algorithm | J. Netw. Comput. Appl. | 2021 | DNC | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804520303209)] |
 |Self-supervised graph convolutional network for multi-view clustering | IEEE TMM | 2021 | SGCMC | [[Paper](https://ieeexplore.ieee.org/document/9472979)] |
@@ -125,7 +126,7 @@ A collection of papers on deep learning for community detection.
 | BL-MNE: Emerging heterogeneous social network embedding through broad learning with aligned autoencoder | ICDM | 2017 | DIME | [[Paper](https://doi.org/10.1109/ICDM.2017.70)][[Code](http://www.ifmlab.org/files/code/Aligned-Autoencoder.zip)] |
 |MGAE: Marginalized graph autoencoder for graph clustering | CIKM | 2017 | MGAE | [[Paper](https://dl.acm.org/doi/10.1145/3132847.3132967)][[Code](https://github.com/FakeTibbers/MGAE)] |
 |Graph clustering with dynamic embedding | Preprint | 2017 | GRACE | [[Paper](https://arxiv.org/abs/1712.08249)] | 
-|Modularity based community detection with deep learning | IJCAI | 2016 |semi-DRN | [[Paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)][[Code](http://yangliang.github.io/code/DC.zip)] |
+|Modularity based community detection with deep learning | IJCAI | 2016 | semi-DRN | [[Paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)][[Code](http://yangliang.github.io/code/DC.zip)] |
 |Deep neural networks for learning graph representations | AAAI | 2016 | DNGR | [[Paper](https://dl.acm.org/doi/10.5555/3015812.3015982)] |
 |Learning deep representations for graph clustering | AAAI | 2014 | GraphEncoder | [[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527/8571)][[Code](https://github.com/quinngroup/deep-representations-clustering)] |
 
@@ -134,6 +135,7 @@ A collection of papers on deep learning for community detection.
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
 |CGC: Contrastive Graph Clustering for Community Detection and Tracking | WWW | 2022 | CGC | [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512160)] |
+|Fine-grained attributed graph clustering | SDM | 2022 | FGC | [[Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.42)] [[Code](https://github.com/sckangz/FGC)] |
 |Community detection based on modularized deep nonnegative matrix factorization | Int. J. Pattern Recognit. Artif. Intell. | 2020 | MDNMF | [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590060)] |
 |Deep autoencoder-like nonnegative matrix factorization for community detection | CIKM | 2018 | DANMF | [[Paper](https://dl.acm.org/doi/10.1145/3269206.3271697)][[Code](https://github.com/benedekrozemberczki/DANMF)] |
 |Community discovery in networks with deep sparse filtering | Pattern Recognit. | 2018 | DSFCD | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)] |
@@ -143,9 +145,11 @@ A collection of papers on deep learning for community detection.
 ## Non-Deep Learning-based Communtiy Detection
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
+|Community detection in partially observable social networks | ACM TKDD | 2022 | KroMFac | [[Paper](https://dl.acm.org/doi/abs/10.1145/3461339)] |
 |Proximity-based group formation game model for community detection in social network | Knowl.-Based Syst. | 2021 | PBCD | [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0950705120307991)] |
 |Evolutionary markov dynamics for network community detection | IEEE TKDE | 2020 | ePMCL | [[Paper](https://ieeexplore.ieee.org/document/9099469)] |
 |A network reduction-based multiobjective evolutionary algorithm for community detection in large-scale complex networks | IEEE TCYB | 2020 | RMOEA | [[Paper](https://ieeexplore.ieee.org/document/8486719)] |
+|Detecting the evolving community structure in dynamic social networks | World Wide Web J. | 2020 | DECS | [[Paper](https://link.springer.com/article/10.1007/s11280-019-00710-z)] [[Code](https://github.com/FanzhenLiu/DECS)] |
 |EdMot: An edge enhancement approach for motif-aware community detection | KDD | 2019 | EdMot | [[Paper](https://dl.acm.org/doi/10.1145/3292500.3330882)] |
 |LPANNI: Overlapping community detection using label propagation in large-scale complex networks | IEEE TKDE | 2019 | LPANNI | [[Paper](https://ieeexplore.ieee.org/document/8443129)] |
 |Detecting prosumer-community groups in smart grids from the multiagent perspective | IEEE TSMC | 2019 | PVMAS | [[Paper](https://ieeexplore.ieee.org/document/8660684)] |
