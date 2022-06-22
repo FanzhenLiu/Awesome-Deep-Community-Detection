@@ -147,10 +147,13 @@ A collection of papers on deep learning for community detection.
 ## Non-Deep Learning-based Communtiy Detection
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
+|HB-DSBM: Modeling the dynamic complex networks from community level to node level | IEEE TNNLS | 2022 | HB-DSBM | [[Paper](https://ieeexplore.ieee.org/document/9721420)]|
 |Community detection in partially observable social networks | ACM TKDD | 2022 | KroMFac | [[Paper](https://dl.acm.org/doi/abs/10.1145/3461339)] |
 |Proximity-based group formation game model for community detection in social network | Knowl.-Based Syst. | 2021 | PBCD | [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0950705120307991)] |
+|When random initializations help: A study of variational inference for community detection | J. Mach. Learn. Res. | 2021 | BCAVI | [[Paper](https://www.jmlr.org/papers/volume22/19-630/19-630.pdf)] |
 |Evolutionary markov dynamics for network community detection | IEEE TKDE | 2020 | ePMCL | [[Paper](https://ieeexplore.ieee.org/document/9099469)] |
 |A network reduction-based multiobjective evolutionary algorithm for community detection in large-scale complex networks | IEEE TCYB | 2020 | RMOEA | [[Paper](https://ieeexplore.ieee.org/document/8486719)] |
+|Integrating group homophily and individual personality of topics can better model network communities | ICDM | 2020 | GHIPT | [[Paper](https://ieeexplore.ieee.org/document/9338379)] |
 |Detecting the evolving community structure in dynamic social networks | World Wide Web J. | 2020 | DECS | [[Paper](https://link.springer.com/article/10.1007/s11280-019-00710-z)] [[Code](https://github.com/FanzhenLiu/DECS)] |
 |EdMot: An edge enhancement approach for motif-aware community detection | KDD | 2019 | EdMot | [[Paper](https://dl.acm.org/doi/10.1145/3292500.3330882)] |
 |LPANNI: Overlapping community detection using label propagation in large-scale complex networks | IEEE TKDE | 2019 | LPANNI | [[Paper](https://ieeexplore.ieee.org/document/8443129)] |
