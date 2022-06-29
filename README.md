@@ -149,7 +149,10 @@ A collection of papers, implementations, datasets, and tools for deep community 
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
 |HB-DSBM: Modeling the dynamic complex networks from community level to node level | IEEE TNNLS | 2022 | HB-DSBM | [[Paper](https://ieeexplore.ieee.org/document/9721420)]|
+|Information diffusion-aware likelihood maximization optimization for community detection | Inf. Sci. | 2022 | EM-CD / L-Louvain | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522003334?via%3Dihub)] |
 |Community detection in partially observable social networks | ACM TKDD | 2022 | KroMFac | [[Paper](https://dl.acm.org/doi/abs/10.1145/3461339)] |
+|Community detection in graph: An embedding method | IEEE TNSE | 2022 | SENMF | [[Paper](https://ieeexplore.ieee.org/abstract/document/9626627)] | 
+|Community detection using local group assimilation | Expert Syst. Appl. | 2022| LGA | [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422010600)] |
 |Proximity-based group formation game model for community detection in social network | Knowl.-Based Syst. | 2021 | PBCD | [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0950705120307991)] |
 |When random initializations help: A study of variational inference for community detection | J. Mach. Learn. Res. | 2021 | BCAVI | [[Paper](https://www.jmlr.org/papers/volume22/19-630/19-630.pdf)] |
 |Evolutionary markov dynamics for network community detection | IEEE TKDE | 2020 | ePMCL | [[Paper](https://ieeexplore.ieee.org/document/9099469)] |
