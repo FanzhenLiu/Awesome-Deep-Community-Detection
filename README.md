@@ -101,9 +101,11 @@ A collection of papers, implementations, datasets, and tools for deep community 
 ## Autoencoder-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
-|Exploring Temporal Community Structure via Network Embedding | IEEE TCYB | 2022 | VGRGMM | [[Paper](https://ieeexplore.ieee.org/abstract/document/9768181)]|
+|Exploring temporal community structure via network embedding | IEEE TCYB | 2022 | VGRGMM | [[Paper](https://ieeexplore.ieee.org/abstract/document/9768181)]|
+|Deep neighbor-aware embedding for node clustering in attributed graphs | Pattern Recognit. | 2022 | DNENC | [[Paper](https://doi.org/10.1016/j.patcog.2021.108230)] |
 |A weighted network community detection algorithm based on deep learning | Appl. Math. Comput. | 2021 | WCD | [[Paper](https://www.sciencedirect.com/science/article/pii/S0096300321000606)] |
 | DNC: A deep neural network-based clustering-oriented network embedding algorithm | J. Netw. Comput. Appl. | 2021 | DNC | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804520303209)] |
+|Boosting nonnegative matrix factorization based community detection with graph attention auto-encoder | IEEE TBD | 2021 | NMFGAAE | [[Paper](https://ieeexplore.ieee.org/abstract/document/9512416)]|
 |Self-supervised graph convolutional network for multi-view clustering | IEEE TMM | 2021 | SGCMC | [[Paper](https://ieeexplore.ieee.org/document/9472979)] |
 |Graph embedding clustering: Graph attention auto-encoder with cluster-specificity distribution | Neural Netw. | 2021 | GEC-CSD | [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021002008)][[Code](https://github.com/xdweixia/SGCMC)] |
 |An evolutionary autoencoder for dynamic community detection | Sci. China Inf. Sci. | 2020 | sE\-Autoencoder | [[Paper](https://link.springer.com/article/10.1007/s11432-020-2827-9)] |
@@ -155,6 +157,10 @@ A collection of papers, implementations, datasets, and tools for deep community 
 |Community detection using local group assimilation | Expert Syst. Appl. | 2022| LGA | [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422010600)] |
 |Proximity-based group formation game model for community detection in social network | Knowl.-Based Syst. | 2021 | PBCD | [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0950705120307991)] |
 |When random initializations help: A study of variational inference for community detection | J. Mach. Learn. Res. | 2021 | BCAVI | [[Paper](https://www.jmlr.org/papers/volume22/19-630/19-630.pdf)] |
+|Identification of communities with multi-semantics via bayesian generative model | IEEE TBD | 2021 | ICMS | [[Paper](https://ieeexplore.ieee.org/document/9632396)] |
+|A network embedding-enhanced Bayesian model for generalized community detection in complex networks | Inf. Sci. | 2021 | NEGCD | [[Paper](https://doi.org/10.1016/j.ins.2021.06.020)] |
+|Multi-objective evolutionary clustering for large-scale dynamic community detection | Inf. Sci. | 2021 | DYN-MODPSO | [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025520311117)] |
+|A joint community detection model: Integrating directed and undirected probabilistic graphical models via factor graph with attention mechanism | IEEE TBD | 2021 | AdaMRF | [[Paper](https://ieeexplore.ieee.org/document/9511816)] |
 |Evolutionary markov dynamics for network community detection | IEEE TKDE | 2020 | ePMCL | [[Paper](https://ieeexplore.ieee.org/document/9099469)] |
 |A network reduction-based multiobjective evolutionary algorithm for community detection in large-scale complex networks | IEEE TCYB | 2020 | RMOEA | [[Paper](https://ieeexplore.ieee.org/document/8486719)] |
 |Integrating group homophily and individual personality of topics can better model network communities | ICDM | 2020 | GHIPT | [[Paper](https://ieeexplore.ieee.org/document/9338379)] |
