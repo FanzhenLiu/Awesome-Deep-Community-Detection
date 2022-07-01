@@ -61,6 +61,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Geometric Graph Representation Learning via Maximizing Rate Reduction | WWW | 2022 | $G^2R$ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512170)] [[Code](https://github.com/ahxt/G2R)] | 
 |SSSNET: Semi-supervised signed network clustering | SDM | 2022 | SSSNET | [[Paper](https://arxiv.org/pdf/2110.06623.pdf)] [[Code](https://github.com/SherylHYX/SSSNET_Signed_Clustering)] | 
 |Learning Guarantees for Graph Convolutional Networks on The Stochastic Block Model | ICLR | 2022 | GCN-SBM | [[Paper](https://openreview.net/forum?id=dpXL6lz4mOQ)] |
+|When convolutional network meets temporal heterogeneous graphs: An effective community detection method | IEEE TKDE| 2021 | THGCN | [[Paper](https://ieeexplore.ieee.org/document/9479741)] |
+|Multi-view contrastive graph clustering | NIPS | 2021 | MCGC | [[paper](https://proceedings.neurips.cc/paper/2021/file/10c66082c124f8afe3df4886f5e516e0-Paper.pdf)] [[Code](https://github.com/Panern/MCGC)] |
 |Graph debiased contrastive learning with joint representation clustering | IJCAI | 2021 | Zhao _et al._ | [[Paper](https://www.ijcai.org/proceedings/2021/0473.pdf)] | 
 |Spectral embedding network for attributed graph clustering | Neural Netw. | 2021 | SENet | [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608021002227)] | 
 |Unsupervised learning for community detection in attributed networks based on graph convolutional network | Neurocomputing | 2021 | SGCN | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231221008110)] |
@@ -87,8 +89,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ----------
 ## Graph Adversarial Network-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
-| ---- | :----: | :----: | :----: | :----: | 
-|Self-training enhanced: Network embedding and overlapping community detection with adversarial learning | IEEE TNNLS | 2021 | ACNE | [[Paper](https://ieeexplore.ieee.org/document/9451542)] | 
+| ---- | :----: | :----: | :----: | :----: |  
 |CANE: Community-aware network embedding via adversarial training |Knowl. Inf. Syst. | 2021 | CANE | [[Paper](https://link.springer.com/article/10.1007%2Fs10115-020-01521-9)] | 
 |Adversarial Learning of Balanced Triangles for Accurate Community Detection on Signed Networks |ICDM | 2021 | ABC | [[Paper](https://ieeexplore.ieee.org/document/9679159)] | 
 |SEAL: Learning heuristics for community detection with generative adversarial networks | KDD | 2020 | SEAL | [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403154)][[Code](https://github.com/yzhang1918/kdd2020seal)] |
@@ -141,6 +142,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 | ---- | :----: | :----: | :----: | :----: | 
 |CGC: Contrastive Graph Clustering for Community Detection and Tracking | WWW | 2022 | CGC | [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512160)] |
 |Fine-grained attributed graph clustering | SDM | 2022 | FGC | [[Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.42)] [[Code](https://github.com/sckangz/FGC)] |
+|Self-training enhanced: Network embedding and overlapping community detection with adversarial learning | IEEE TNNLS | 2021 | ACNE / ACNE-ST | [[Paper](https://ieeexplore.ieee.org/document/9451542)] |
 |Community detection based on modularized deep nonnegative matrix factorization | Int. J. Pattern Recognit. Artif. Intell. | 2020 | MDNMF | [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590060)] |
 |Deep autoencoder-like nonnegative matrix factorization for community detection | CIKM | 2018 | DANMF | [[Paper](https://dl.acm.org/doi/10.1145/3269206.3271697)][[Code](https://github.com/benedekrozemberczki/DANMF)] |
 |Community discovery in networks with deep sparse filtering | Pattern Recognit. | 2018 | DSFCD | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)] |
@@ -151,10 +153,12 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
 |HB-DSBM: Modeling the dynamic complex networks from community level to node level | IEEE TNNLS | 2022 | HB-DSBM | [[Paper](https://ieeexplore.ieee.org/document/9721420)]|
-|Information diffusion-aware likelihood maximization optimization for community detection | Inf. Sci. | 2022 | EM-CD / L-Louvain | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522003334?via%3Dihub)] |
+|Information diffusion-aware likelihood maximization optimization for community detection | Inf. Sci. | 2022 | EM-CD / L-Louvain | [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522003334)] |
 |Community detection in partially observable social networks | ACM TKDD | 2022 | KroMFac | [[Paper](https://dl.acm.org/doi/abs/10.1145/3461339)] |
 |Community detection in graph: An embedding method | IEEE TNSE | 2022 | SENMF | [[Paper](https://ieeexplore.ieee.org/abstract/document/9626627)] | 
 |Community detection using local group assimilation | Expert Syst. Appl. | 2022| LGA | [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422010600)] |
+|Residual2Vec: Debiasing graph embedding with random graphs | NIPS | 2021 | residual2vec | [[Paper](https://proceedings.neurips.cc/paper/2021/file/ca9541826e97c4530b07dda2eba0e013-Paper.pdf)] [[Code](https://github.com/skojaku/residual2vec)] |
+|Streaming belief propagation for community detection | NIPS | 2021 | StSBM | [[Paper](https://proceedings.neurips.cc/paper/2021/file/e2a2dcc36a08a345332c751b2f2e476c-Paper.pdf)] |
 |Proximity-based group formation game model for community detection in social network | Knowl.-Based Syst. | 2021 | PBCD | [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0950705120307991)] |
 |When random initializations help: A study of variational inference for community detection | J. Mach. Learn. Res. | 2021 | BCAVI | [[Paper](https://www.jmlr.org/papers/volume22/19-630/19-630.pdf)] |
 |Identification of communities with multi-semantics via bayesian generative model | IEEE TBD | 2021 | ICMS | [[Paper](https://ieeexplore.ieee.org/document/9632396)] |
