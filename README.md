@@ -57,8 +57,9 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ### GCN-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
-|Efficient Graph Convolution for Joint Node Representation Learning and Clustering  | WSDM | 2022 | GCC | [[Paper](https://dl.acm.org/doi/10.1145/3488560.3498533)] [[Code](https://github.com/chakib401/graph_convolutional_clustering)] |
-|Geometric Graph Representation Learning via Maximizing Rate Reduction | WWW | 2022 | $G^2R$ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512170)] [[Code](https://github.com/ahxt/G2R)] | 
+|Efficient graph convolution for joint node representation learning and clustering  | WSDM | 2022 | GCC | [[Paper](https://dl.acm.org/doi/10.1145/3488560.3498533)] [[Code](https://github.com/chakib401/graph_convolutional_clustering)] |
+|Geometric graph representation learning via maximizing rate reduction | WWW | 2022 | $G^2R$ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512170)] [[Code](https://github.com/ahxt/G2R)] | 
+| RepBin: Constraint-based graph representation learning for metagenomic binning | AAAI | 2022 | RepBin | [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-4979.XueH.pdf)] [[Code](https://github.com/xuehansheng/RepBin)] |
 |SSSNET: Semi-supervised signed network clustering | SDM | 2022 | SSSNET | [[Paper](https://arxiv.org/pdf/2110.06623.pdf)] [[Code](https://github.com/SherylHYX/SSSNET_Signed_Clustering)] | 
 |Learning Guarantees for Graph Convolutional Networks on The Stochastic Block Model | ICLR | 2022 | GCN-SBM | [[Paper](https://openreview.net/forum?id=dpXL6lz4mOQ)] |
 |When convolutional network meets temporal heterogeneous graphs: An effective community detection method | IEEE TKDE| 2021 | THGCN | [[Paper](https://ieeexplore.ieee.org/document/9479741)] |
@@ -142,7 +143,9 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
 |CGC: Contrastive Graph Clustering for Community Detection and Tracking | WWW | 2022 | CGC | [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512160)] |
+|Deep graph clustering via dual correlation reduction | AAAI | 2022 | DCRN | [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-5928.LiuY.pdf)] [[Code](https://github.com/yueliu1999/DCRN)]|
 |Fine-grained attributed graph clustering | SDM | 2022 | FGC | [[Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.42)] [[Code](https://github.com/sckangz/FGC)] |
+|Graph filter-based multi-view attributed graph clustering | IJCAI | 2021 | MvAGC | [[Paper](https://www.ijcai.org/proceedings/2021/0375.pdf)] [[Code](https://github.com/sckangz/MvAGC)] |
 |Community detection based on modularized deep nonnegative matrix factorization | Int. J. Pattern Recognit. Artif. Intell. | 2020 | MDNMF | [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590060)] |
 |Deep autoencoder-like nonnegative matrix factorization for community detection | CIKM | 2018 | DANMF | [[Paper](https://dl.acm.org/doi/10.1145/3269206.3271697)][[Code](https://github.com/benedekrozemberczki/DANMF)] |
 |Community discovery in networks with deep sparse filtering | Pattern Recognit. | 2018 | DSFCD | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)] |
@@ -152,6 +155,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Non-Deep Learning-based Communtiy Detection
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
+|Differentially private community detection for stochastic block models | ICML | 2022 | Seif _et al._ | [[Paper](http://128.84.4.18/abs/2202.00636)] |
+|Community detection in multiplex networks based on evolutionary multi-task optimization and evolutionary clustering ensemble | IEEE TEVC | 2022 | BSMCD | [[Paper](https://ieeexplore.ieee.org/document/9802693)] |
 |HB-DSBM: Modeling the dynamic complex networks from community level to node level | IEEE TNNLS | 2022 | HB-DSBM | [[Paper](https://ieeexplore.ieee.org/document/9721420)]|
 |Information diffusion-aware likelihood maximization optimization for community detection | Inf. Sci. | 2022 | EM-CD <br> L-Louvain <br> | [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522003334)] |
 |Community detection in partially observable social networks | ACM TKDD | 2022 | KroMFac | [[Paper](https://dl.acm.org/doi/abs/10.1145/3461339)] |
@@ -159,6 +164,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Community detection using local group assimilation | Expert Syst. Appl. | 2022| LGA | [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422010600)] |
 |Residual2Vec: Debiasing graph embedding with random graphs | NIPS | 2021 | residual2vec | [[Paper](https://proceedings.neurips.cc/paper/2021/file/ca9541826e97c4530b07dda2eba0e013-Paper.pdf)] [[Code](https://github.com/skojaku/residual2vec)] |
 |Streaming belief propagation for community detection | NIPS | 2021 | StSBM | [[Paper](https://proceedings.neurips.cc/paper/2021/file/e2a2dcc36a08a345332c751b2f2e476c-Paper.pdf)] |
+|Triangle-aware spectral sparsifiers and community detection | KDD | 2021 | Sotiropoulos _et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3447548.3467260)] [[Code](https://www.dropbox.com/s/0p0ybkpx19jt3ii/codeKDDTriangleAware.zip?dl=0)] |
+|Self-guided community detection on networks with missing edges | IJCAI | 2021 | SGCD | [[Paper](https://www.ijcai.org/proceedings/2021/0483.pdf)] |
 |Proximity-based group formation game model for community detection in social network | Knowl.-Based Syst. | 2021 | PBCD | [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0950705120307991)] |
 |When random initializations help: A study of variational inference for community detection | J. Mach. Learn. Res. | 2021 | BCAVI | [[Paper](https://www.jmlr.org/papers/volume22/19-630/19-630.pdf)] |
 |Identification of communities with multi-semantics via bayesian generative model | IEEE TBD | 2021 | ICMS | [[Paper](https://ieeexplore.ieee.org/document/9632396)] |
