@@ -131,7 +131,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |DFuzzy: A deep learning-based fuzzy clustering model for large graphs | Knowl. Inf.  Syst. | 2018 | DFuzzy | [[Paper](https://link.springer.com/article/10.1007/s10115-018-1156-3)] |
 |Learning community structure with variational autoencoder | ICDM | 2018 | VGAECD | [[Paper](https://ieeexplore.ieee.org/document/8594831)] |
 |Adversarially regularized graph autoencoder for graph embedding | IJCAI | 2018 | ARGA <br> ARVGA <br> | [[Paper](https://www.ijcai.org/Proceedings/2018/0362.pdf)][[Code](https://github.com/Ruiqi-Hu/ARGA)]| 
-| BL-MNE: Emerging heterogeneous social network embedding through broad learning with aligned autoencoder | ICDM | 2017 | DIME | [[Paper](https://doi.org/10.1109/ICDM.2017.70)][[Code](http://www.ifmlab.org/files/code/Aligned-Autoencoder.zip)] |
+|BL-MNE: Emerging heterogeneous social network embedding through broad learning with aligned autoencoder | ICDM | 2017 | DIME | [[Paper](https://doi.org/10.1109/ICDM.2017.70)][[Code](http://www.ifmlab.org/files/code/Aligned-Autoencoder.zip)] |
 |MGAE: Marginalized graph autoencoder for graph clustering | CIKM | 2017 | MGAE | [[Paper](https://dl.acm.org/doi/10.1145/3132847.3132967)][[Code](https://github.com/FakeTibbers/MGAE)] |
 |Graph clustering with dynamic embedding | Preprint | 2017 | GRACE | [[Paper](https://arxiv.org/abs/1712.08249)] | 
 |Modularity based community detection with deep learning | IJCAI | 2016 | semi-DRN | [[Paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)][[Code](http://yangliang.github.io/code/DC.zip)] |
@@ -143,9 +143,11 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
 |CGC: Contrastive Graph Clustering for Community Detection and Tracking | WWW | 2022 | CGC | [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512160)] |
-|Deep graph clustering via dual correlation reduction | AAAI | 2022 | DCRN | [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-5928.LiuY.pdf)] [[Code](https://github.com/yueliu1999/DCRN)]|
+|Deep graph clustering via dual correlation reduction | AAAI | 2022 | DCRN | [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-5928.LiuY.pdf)] [[Code](https://github.com/yueliu1999/DCRN)] |
+|Cluster-aware heterogeneous information network embedding | WSDM | 2022 | VaCA-HINE | [[Paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498385)] |
 |Fine-grained attributed graph clustering | SDM | 2022 | FGC | [[Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.42)] [[Code](https://github.com/sckangz/FGC)] |
 |Graph filter-based multi-view attributed graph clustering | IJCAI | 2021 | MvAGC | [[Paper](https://www.ijcai.org/proceedings/2021/0375.pdf)] [[Code](https://github.com/sckangz/MvAGC)] |
+|A deep learning framework for self-evolving hierarchical community detection | CIKM | 2021 | ReinCom | [[Paper](https://dl.acm.org/doi/10.1145/3459637.3482223)] |
 |Community detection based on modularized deep nonnegative matrix factorization | Int. J. Pattern Recognit. Artif. Intell. | 2020 | MDNMF | [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590060)] |
 |Deep autoencoder-like nonnegative matrix factorization for community detection | CIKM | 2018 | DANMF | [[Paper](https://dl.acm.org/doi/10.1145/3269206.3271697)][[Code](https://github.com/benedekrozemberczki/DANMF)] |
 |Community discovery in networks with deep sparse filtering | Pattern Recognit. | 2018 | DSFCD | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)] |
@@ -166,6 +168,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Streaming belief propagation for community detection | NIPS | 2021 | StSBM | [[Paper](https://proceedings.neurips.cc/paper/2021/file/e2a2dcc36a08a345332c751b2f2e476c-Paper.pdf)] |
 |Triangle-aware spectral sparsifiers and community detection | KDD | 2021 | Sotiropoulos _et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3447548.3467260)] [[Code](https://www.dropbox.com/s/0p0ybkpx19jt3ii/codeKDDTriangleAware.zip?dl=0)] |
 |Self-guided community detection on networks with missing edges | IJCAI | 2021 | SGCD | [[Paper](https://www.ijcai.org/proceedings/2021/0483.pdf)] |
+|Effective and scalable clustering on massive attributed graphs | WWW | 2021 | ACMin | [[Paper](https://dl.acm.org/doi/10.1145/3442381.3449875)] [[Code](https://github.com/AnryYang/ACMin)] |
 |Proximity-based group formation game model for community detection in social network | Knowl.-Based Syst. | 2021 | PBCD | [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0950705120307991)] |
 |When random initializations help: A study of variational inference for community detection | J. Mach. Learn. Res. | 2021 | BCAVI | [[Paper](https://www.jmlr.org/papers/volume22/19-630/19-630.pdf)] |
 |Identification of communities with multi-semantics via bayesian generative model | IEEE TBD | 2021 | ICMS | [[Paper](https://ieeexplore.ieee.org/document/9632396)] |
