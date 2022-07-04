@@ -49,6 +49,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ### CNN-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|Inductive representation learning via CNN for partially-unseen attributed networks | IEEE TNSE | 2021 | IEPAN | [[Paper](https://ieeexplore.ieee.org/abstract/document/9314087)] |
 |A deep learning approach for semi-supervised community detection in online social networks | Knowl.-Based Syst. | 2021 | SparseConv2D | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121006079)] |
 |Edge classification based on convolutional neural networks for community detection in complex network | Physica A | 2020 | ComNet-R | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437120304271)] |
 |A deep learning based community detection approach | SAC | 2019 | SparseConv | [[Paper](https://doi.org/10.1145/3297280.3297574)] |
@@ -148,6 +149,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Fine-grained attributed graph clustering | SDM | 2022 | FGC | [[Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.42)] [[Code](https://github.com/sckangz/FGC)] |
 |Graph filter-based multi-view attributed graph clustering | IJCAI | 2021 | MvAGC | [[Paper](https://www.ijcai.org/proceedings/2021/0375.pdf)] [[Code](https://github.com/sckangz/MvAGC)] |
 |A deep learning framework for self-evolving hierarchical community detection | CIKM | 2021 | ReinCom | [[Paper](https://dl.acm.org/doi/10.1145/3459637.3482223)] |
+|Unsupervised learning of joint embeddings for node representation and community detection | ECML-PKDD | 2021 | J-ENC | [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-86520-7_2)] |
 |Community detection based on modularized deep nonnegative matrix factorization | Int. J. Pattern Recognit. Artif. Intell. | 2020 | MDNMF | [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001421590060)] |
 |Deep autoencoder-like nonnegative matrix factorization for community detection | CIKM | 2018 | DANMF | [[Paper](https://dl.acm.org/doi/10.1145/3269206.3271697)][[Code](https://github.com/benedekrozemberczki/DANMF)] |
 |Community discovery in networks with deep sparse filtering | Pattern Recognit. | 2018 | DSFCD | [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S003132031830116X)] |
@@ -162,6 +164,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |HB-DSBM: Modeling the dynamic complex networks from community level to node level | IEEE TNNLS | 2022 | HB-DSBM | [[Paper](https://ieeexplore.ieee.org/document/9721420)]|
 |Information diffusion-aware likelihood maximization optimization for community detection | Inf. Sci. | 2022 | EM-CD <br> L-Louvain <br> | [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522003334)] |
 |Community detection in partially observable social networks | ACM TKDD | 2022 | KroMFac | [[Paper](https://dl.acm.org/doi/abs/10.1145/3461339)] |
+|Diverse and experienced group discovery via hypergraph clustering | SDM | 2022 | Amburg _et al._ | [[Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.17)] [[Code](https://github.com/ilyaamburg/fair-clustering-for-diverse-and-experienced-groups)] |
 |Community detection in graph: An embedding method | IEEE TNSE | 2022 | SENMF | [[Paper](https://ieeexplore.ieee.org/abstract/document/9626627)] | 
 |Community detection using local group assimilation | Expert Syst. Appl. | 2022| LGA | [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422010600)] |
 |Residual2Vec: Debiasing graph embedding with random graphs | NIPS | 2021 | residual2vec | [[Paper](https://proceedings.neurips.cc/paper/2021/file/ca9541826e97c4530b07dda2eba0e013-Paper.pdf)] [[Code](https://github.com/skojaku/residual2vec)] |
@@ -169,6 +172,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Triangle-aware spectral sparsifiers and community detection | KDD | 2021 | Sotiropoulos _et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3447548.3467260)] [[Code](https://www.dropbox.com/s/0p0ybkpx19jt3ii/codeKDDTriangleAware.zip?dl=0)] |
 |Self-guided community detection on networks with missing edges | IJCAI | 2021 | SGCD | [[Paper](https://www.ijcai.org/proceedings/2021/0483.pdf)] |
 |Effective and scalable clustering on massive attributed graphs | WWW | 2021 | ACMin | [[Paper](https://dl.acm.org/doi/10.1145/3442381.3449875)] [[Code](https://github.com/AnryYang/ACMin)] |
+|Scalable Community Detection via Parallel Correlation Clustering | VLDB | 2021 | Shi _et al._ | [[Paper](http://vldb.org/pvldb/vol14/p2305-shi.pdf)] [[Code](https://github.com/jeshi96/parallel-correlation-clustering)] |
 |Proximity-based group formation game model for community detection in social network | Knowl.-Based Syst. | 2021 | PBCD | [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0950705120307991)] |
 |When random initializations help: A study of variational inference for community detection | J. Mach. Learn. Res. | 2021 | BCAVI | [[Paper](https://www.jmlr.org/papers/volume22/19-630/19-630.pdf)] |
 |Identification of communities with multi-semantics via bayesian generative model | IEEE TBD | 2021 | ICMS | [[Paper](https://ieeexplore.ieee.org/document/9632396)] |
