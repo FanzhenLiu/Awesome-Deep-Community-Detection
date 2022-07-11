@@ -164,6 +164,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Differentially private community detection for stochastic block models | ICML | 2022 | Seif _et al._ | [[Paper](http://128.84.4.18/abs/2202.00636)] |
 |Community detection in multiplex networks based on evolutionary multi-task optimization and evolutionary clustering ensemble | IEEE TEVC | 2022 | BSMCD | [[Paper](https://ieeexplore.ieee.org/document/9802693)] |
 |HB-DSBM: Modeling the dynamic complex networks from community level to node level | IEEE TNNLS | 2022 | HB-DSBM | [[Paper](https://ieeexplore.ieee.org/document/9721420)]|
+|Rearranging 'indivisible' blocks for community detection | IEEE TKDE | 2022 | RaidB | [[Paper](https://ieeexplore.ieee.org/document/9771068)] |
 |Information diffusion-aware likelihood maximization optimization for community detection | Inf. Sci. | 2022 | EM-CD <br> L-Louvain <br> | [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522003334)] |
 |Community detection in partially observable social networks | ACM TKDD | 2022 | KroMFac | [[Paper](https://dl.acm.org/doi/abs/10.1145/3461339)] |
 |Diverse and experienced group discovery via hypergraph clustering | SDM | 2022 | Amburg _et al._ | [[Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.17)] [[Code](https://github.com/ilyaamburg/fair-clustering-for-diverse-and-experienced-groups)] |
