@@ -108,6 +108,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Exploring temporal community structure via network embedding | IEEE TCYB | 2022 | VGRGMM | [[Paper](https://ieeexplore.ieee.org/abstract/document/9768181)]|
 |Graph community infomax | ACM TKDD | 2022 | GCI | [[Paper](https://dl.acm.org/doi/10.1145/3480244)] |
 |Deep neighbor-aware embedding for node clustering in attributed graphs | Pattern Recognit. | 2022 | DNENC | [[Paper](https://doi.org/10.1016/j.patcog.2021.108230)] |
+|Semi-supervised overlapping community detection in attributed graph with graph convolutional autoencoder | Inf. Sci. | 2022 | SSGCAE | [[Paper](https://doi.org/10.1016/j.ins.2022.07.036)] |
 |A weighted network community detection algorithm based on deep learning | Appl. Math. Comput. | 2021 | WCD | [[Paper](https://www.sciencedirect.com/science/article/pii/S0096300321000606)] |
 | DNC: A deep neural network-based clustering-oriented network embedding algorithm | J. Netw. Comput. Appl. | 2021 | DNC | [[Paper](https://www.sciencedirect.com/science/article/pii/S1084804520303209)] |
 |Boosting nonnegative matrix factorization based community detection with graph attention auto-encoder | IEEE TBD | 2021 | NMFGAAE | [[Paper](https://ieeexplore.ieee.org/abstract/document/9512416)]|
