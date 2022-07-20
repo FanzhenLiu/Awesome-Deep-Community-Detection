@@ -9,7 +9,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
   	- [CNN-based Community Detection](#cnn-based-community-detection)
   	- [GCN-based Community Detection](#gcn-based-community-detection)
   - [Graph Attention Network-based Community Detection](#graph-attention-network-based-community-detection)
-  - [Graph Adversarial Network-based Community Detection](#graph-adversarial-network-based-community-detection)
+  - [Generative Adversarial Network-based Community Detection](#graph-adversarial-network-based-community-detection)
   - [Autoencoder-based Community Detection](#autoencoder-based-community-detection)
   - [Other Deep Learning-based Community Detection](#other-deep-learning-based-community-detection)
   - [Non-Deep Learning-based Communtiy Detection](#non-deep-learning-based-communtiy-detection)
@@ -82,6 +82,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Graph Attention Network-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|Hierarchical attention network for attributed community detection of joint representation | Neural Comput. Appl. | 2022 | HiAN | [[Paper](https://doi.org/10.1007/s00521-021-06723-y)] |
 |Detecting communities from heterogeneous graphs: A context path-based graph neural network model | CIKM | 2021 | <nobr> CP-GNN <nobr> | [[Paper](https://arxiv.org/pdf/2109.02058.pdf)][[Code](https://github.com/RManLuo/CP-GNN)] | 
 |HDMI: High-order deep multiplex infomax | WWW | 2021 | HDMI | [[Paper](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449971)][[Code](https://github.com/baoyujing/HDMI)] |
 |Self-supervised heterogeneous graph neural network with co-contrastive learning | KDD | 2021 | HeCo | [[Paper](https://dl.acm.org/doi/10.1145/3447548.3467415)][[Code](https://github.com/liun-online/HeCo)] |
@@ -165,6 +166,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Differentially private community detection for stochastic block models | ICML | 2022 | Seif _et al._ | [[Paper](http://128.84.4.18/abs/2202.00636)] |
 |Community detection in multiplex networks based on evolutionary multi-task optimization and evolutionary clustering ensemble | IEEE TEVC | 2022 | BSMCD | [[Paper](https://ieeexplore.ieee.org/document/9802693)] |
 |HB-DSBM: Modeling the dynamic complex networks from community level to node level | IEEE TNNLS | 2022 | HB-DSBM | [[Paper](https://ieeexplore.ieee.org/document/9721420)]|
+|PMCDM: Privacy-preserving multiresolution community detection in multiplex networks | Knowl.-Based Syst. | 2022 | PMCDM | [[Paper](https://doi.org/10.1016/j.knosys.2022.108542)] |
 |Rearranging 'indivisible' blocks for community detection | IEEE TKDE | 2022 | RaidB | [[Paper](https://ieeexplore.ieee.org/document/9771068)] |
 |Information diffusion-aware likelihood maximization optimization for community detection | Inf. Sci. | 2022 | EM-CD <br> L-Louvain <br> | [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025522003334)] |
 |Community detection in partially observable social networks | ACM TKDD | 2022 | KroMFac | [[Paper](https://dl.acm.org/doi/abs/10.1145/3461339)] |
