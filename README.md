@@ -146,6 +146,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Other Deep Learning-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|Deep alternating non-negative matrix factorisation | Knowl.-Based Syst. | 2022 |  DA-NMF | [[Paper](https://doi.org/10.1016/j.knosys.2022.109210)] |
 |CGC: Contrastive Graph Clustering for Community Detection and Tracking | WWW | 2022 | CGC | [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512160)] |
 |Deep graph clustering via dual correlation reduction | AAAI | 2022 | DCRN | [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-5928.LiuY.pdf)] [[Code](https://github.com/yueliu1999/DCRN)] |
 |Cluster-aware heterogeneous information network embedding | WSDM | 2022 | VaCA-HINE | [[Paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498385)] |
