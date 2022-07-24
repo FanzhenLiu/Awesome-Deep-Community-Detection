@@ -108,6 +108,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 | ---- | :----: | :----: | :----: | :----: | 
 |Exploring temporal community structure via network embedding | IEEE TCYB | 2022 | VGRGMM | [[Paper](https://ieeexplore.ieee.org/abstract/document/9768181)]|
 |Graph community infomax | ACM TKDD | 2022 | GCI | [[Paper](https://dl.acm.org/doi/10.1145/3480244)] |
+|Multi-modal non-Euclidean brain network analysis with community detection and convolutional autoencoder | IEEE TETCI | 2022 | M2CDCA | [[Paper](https://ieeexplore.ieee.org/document/9773106)] |
 |Deep neighbor-aware embedding for node clustering in attributed graphs | Pattern Recognit. | 2022 | DNENC | [[Paper](https://doi.org/10.1016/j.patcog.2021.108230)] |
 |Semi-supervised overlapping community detection in attributed graph with graph convolutional autoencoder | Inf. Sci. | 2022 | SSGCAE | [[Paper](https://doi.org/10.1016/j.ins.2022.07.036)] |
 |A weighted network community detection algorithm based on deep learning | Appl. Math. Comput. | 2021 | WCD | [[Paper](https://www.sciencedirect.com/science/article/pii/S0096300321000606)] |
@@ -182,6 +183,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Scalable Community Detection via Parallel Correlation Clustering | VLDB | 2021 | Shi _et al._ | [[Paper](http://vldb.org/pvldb/vol14/p2305-shi.pdf)] [[Code](https://github.com/jeshi96/parallel-correlation-clustering)] |
 |Proximity-based group formation game model for community detection in social network | Knowl.-Based Syst. | 2021 | PBCD | [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0950705120307991)] |
 |When random initializations help: A study of variational inference for community detection | J. Mach. Learn. Res. | 2021 | BCAVI | [[Paper](https://www.jmlr.org/papers/volume22/19-630/19-630.pdf)] |
+|Compactness preserving community computation via a network generative process | IEEE TETCI | 2021 | FCOCD | [[Paper](https://ieeexplore.ieee.org/document/9548676)] |
 |Identification of communities with multi-semantics via bayesian generative model | IEEE TBD | 2021 | ICMS | [[Paper](https://ieeexplore.ieee.org/document/9632396)] |
 |A network embedding-enhanced Bayesian model for generalized community detection in complex networks | Inf. Sci. | 2021 | NEGCD | [[Paper](https://doi.org/10.1016/j.ins.2021.06.020)] |
 |Multi-objective evolutionary clustering for large-scale dynamic community detection | Inf. Sci. | 2021 | <nobr> DYN-MODPSO <nobr> | [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025520311117)] |
@@ -189,6 +191,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Evolutionary markov dynamics for network community detection | IEEE TKDE | 2020 | ePMCL | [[Paper](https://ieeexplore.ieee.org/document/9099469)] |
 |A network reduction-based multiobjective evolutionary algorithm for community detection in large-scale complex networks | IEEE TCYB | 2020 | RMOEA | [[Paper](https://ieeexplore.ieee.org/document/8486719)] |
 |Integrating group homophily and individual personality of topics can better model network communities | ICDM | 2020 | GHIPT | [[Paper](https://ieeexplore.ieee.org/document/9338379)] |
+|Community preserving network embedding based on memetic algorithm | IEEE TETCI | 2020 | MemeRep | [[Paper](https://ieeexplore.ieee.org/document/8449095)] |
 |Detecting the evolving community structure in dynamic social networks | World Wide Web J. | 2020 | DECS | [[Paper](https://link.springer.com/article/10.1007/s11280-019-00710-z)] [[Code](https://github.com/FanzhenLiu/DECS)] |
 |EdMot: An edge enhancement approach for motif-aware community detection | KDD | 2019 | EdMot | [[Paper](https://dl.acm.org/doi/10.1145/3292500.3330882)] |
 |LPANNI: Overlapping community detection using label propagation in large-scale complex networks | IEEE TKDE | 2019 | LPANNI | [[Paper](https://ieeexplore.ieee.org/document/8443129)] |
