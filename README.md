@@ -164,6 +164,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Non-Deep Learning-based Communtiy Detection
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
+|Community detection in subspace of attribute | Inf. Sci. | 2022 | SOA | [[Paper](https://doi.org/10.1016/j.ins.2022.04.047)] |
 |Explainability in graph data science: Interpretability, replicability, and reproducibility of community detection | IEEE Signal Process. Mag. | 2022 | --| [[Paper](https://ieeexplore.ieee.org/abstract/document/9810084)] |
 |Differentially private community detection for stochastic block models | ICML | 2022 | Seif _et al._ | [[Paper](http://128.84.4.18/abs/2202.00636)] |
 |Community detection in multiplex networks based on evolutionary multi-task optimization and evolutionary clustering ensemble | IEEE TEVC | 2022 | BSMCD | [[Paper](https://ieeexplore.ieee.org/document/9802693)] |
