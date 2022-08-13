@@ -164,7 +164,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Non-Deep Learning-based Communtiy Detection
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
-|The trade-off between topology and content in community detection: An adaptive encoder–decoder-based NMF approach | Expert Syst. Appl. | 2022 | ANMF | [[Paper](https://doi.org/10.1016/j.eswa.2022.118230)] |
+|Modeling and detecting communities in node attributed networks | IEEE TKDE | 2022 | CRSBM | [[Paper](https://ieeexplore.ieee.org/document/9852668)] |
+|The trade-off between topology and content in community detection: An adaptive encoder-decoder-based NMF approach | Expert Syst. Appl. | 2022 | ANMF | [[Paper](https://doi.org/10.1016/j.eswa.2022.118230)] |
 |Community detection in subspace of attribute | Inf. Sci. | 2022 | SOA | [[Paper](https://doi.org/10.1016/j.ins.2022.04.047)] |
 |Explainability in graph data science: Interpretability, replicability, and reproducibility of community detection | IEEE Signal Process. Mag. | 2022 | --| [[Paper](https://ieeexplore.ieee.org/abstract/document/9810084)] |
 |Differentially private community detection for stochastic block models | ICML | 2022 | Seif _et al._ | [[Paper](http://128.84.4.18/abs/2202.00636)] |
