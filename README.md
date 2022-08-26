@@ -178,6 +178,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Diverse and experienced group discovery via hypergraph clustering | SDM | 2022 | Amburg _et al._ | [[Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.17)] [[Code](https://github.com/ilyaamburg/fair-clustering-for-diverse-and-experienced-groups)] |
 |Community detection in graph: An embedding method | IEEE TNSE | 2022 | SENMF | [[Paper](https://ieeexplore.ieee.org/abstract/document/9626627)] | 
 |Community detection using local group assimilation | Expert Syst. Appl. | 2022| LGA | [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422010600)] |
+|Identifying Early Warning Signals from News Using Network Community Detection | AAAI | 2022| Le Vine _et al._ | [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21503/21252)] |
 |Residual2Vec: Debiasing graph embedding with random graphs | NIPS | 2021 | residual2vec | [[Paper](https://proceedings.neurips.cc/paper/2021/file/ca9541826e97c4530b07dda2eba0e013-Paper.pdf)] [[Code](https://github.com/skojaku/residual2vec)] |
 |Streaming belief propagation for community detection | NIPS | 2021 | StSBM | [[Paper](https://proceedings.neurips.cc/paper/2021/file/e2a2dcc36a08a345332c751b2f2e476c-Paper.pdf)] |
 |Triangle-aware spectral sparsifiers and community detection | KDD | 2021 | Sotiropoulos _et al._ | [[Paper](https://dl.acm.org/doi/10.1145/3447548.3467260)] [[Code](https://www.dropbox.com/s/0p0ybkpx19jt3ii/codeKDDTriangleAware.zip?dl=0)] |
