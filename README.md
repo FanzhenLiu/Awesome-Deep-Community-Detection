@@ -58,6 +58,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ### GCN-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|CLARE: A semi-supervised community detection algorithm | KDD | 2022 | CLARE | [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539370)] [[Code](https://github.com/FDUDSDE/KDD2022CLARE)] |
 |Efficient graph convolution for joint node representation learning and clustering  | WSDM | 2022 | GCC | [[Paper](https://dl.acm.org/doi/10.1145/3488560.3498533)] [[Code](https://github.com/chakib401/graph_convolutional_clustering)] |
 |Geometric graph representation learning via maximizing rate reduction | WWW | 2022 | $G^2R$ | [[Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512170)] [[Code](https://github.com/ahxt/G2R)] | 
 | RepBin: Constraint-based graph representation learning for metagenomic binning | AAAI | 2022 | RepBin | [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-4979.XueH.pdf)] [[Code](https://github.com/xuehansheng/RepBin)] |
