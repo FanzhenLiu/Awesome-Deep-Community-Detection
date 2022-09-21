@@ -152,7 +152,6 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |CGC: Contrastive Graph Clustering for Community Detection and Tracking | WWW | 2022 | CGC | [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512160)] |
 |Deep graph clustering via dual correlation reduction | AAAI | 2022 | DCRN | [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-5928.LiuY.pdf)] [[Code](https://github.com/yueliu1999/DCRN)] |
 |Cluster-aware heterogeneous information network embedding | WSDM | 2022 | VaCA-HINE | [[Paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498385)] |
-|Fine-grained attributed graph clustering | SDM | 2022 | FGC | [[Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.42)] [[Code](https://github.com/sckangz/FGC)] |
 |Graph filter-based multi-view attributed graph clustering | IJCAI | 2021 | MvAGC | [[Paper](https://www.ijcai.org/proceedings/2021/0375.pdf)] [[Code](https://github.com/sckangz/MvAGC)] |
 |A deep learning framework for self-evolving hierarchical community detection | CIKM | 2021 | ReinCom | [[Paper](https://dl.acm.org/doi/10.1145/3459637.3482223)] |
 |Unsupervised learning of joint embeddings for node representation and community detection | ECML-PKDD | 2021 | J-ENC | [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-86520-7_2)] |
@@ -171,6 +170,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |Explainability in graph data science: Interpretability, replicability, and reproducibility of community detection | IEEE Signal Process. Mag. | 2022 | --| [[Paper](https://ieeexplore.ieee.org/abstract/document/9810084)] |
 |Differentially private community detection for stochastic block models | ICML | 2022 | Seif _et al._ | [[Paper](http://128.84.4.18/abs/2202.00636)] |
 |Community detection in multiplex networks based on evolutionary multi-task optimization and evolutionary clustering ensemble | IEEE TEVC | 2022 | BSMCD | [[Paper](https://ieeexplore.ieee.org/document/9802693)] |
+|Fine-grained attributed graph clustering | SDM | 2022 | FGC | [[Paper](https://epubs.siam.org/doi/epdf/10.1137/1.9781611977172.42)] [[Code](https://github.com/sckangz/FGC)] |
 |HB-DSBM: Modeling the dynamic complex networks from community level to node level | IEEE TNNLS | 2022 | HB-DSBM | [[Paper](https://ieeexplore.ieee.org/document/9721420)]|
 |PMCDM: Privacy-preserving multiresolution community detection in multiplex networks | Knowl.-Based Syst. | 2022 | PMCDM | [[Paper](https://doi.org/10.1016/j.knosys.2022.108542)] |
 |Rearranging 'indivisible' blocks for community detection | IEEE TKDE | 2022 | RaidB | [[Paper](https://ieeexplore.ieee.org/document/9771068)] |
