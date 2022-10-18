@@ -107,6 +107,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Autoencoder-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|Community detection based on unsupervised attributed network embedding | Expert Syst. Appl. | 2023 | CDBNE | [[Paper](https://doi.org/10.1016/j.eswa.2022.118937)][[Code](https://github.com/xidizxc/CDBNE)] |
 |Exploring temporal community structure via network embedding | IEEE TCYB | 2022 | VGRGMM | [[Paper](https://ieeexplore.ieee.org/abstract/document/9768181)]|
 |Graph community infomax | ACM TKDD | 2022 | GCI | [[Paper](https://dl.acm.org/doi/10.1145/3480244)] |
 |Multi-modal non-Euclidean brain network analysis with community detection and convolutional autoencoder | IEEE TETCI | 2022 | M2CDCA | [[Paper](https://ieeexplore.ieee.org/document/9773106)] |
@@ -165,6 +166,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
 |Community detection via autoencoder-like nonnegative tensor decomposition | IEEE TNNLS | 2022 | ANTD | [[Paper](https://ieeexplore.ieee.org/document/9904739)] |
+|Graph regularized nonnegative matrix factorization for community detection in attributed networks| IEEE TNSE | 2022 | AGNMF-AN | [[Paper](https://ieeexplore.ieee.org/document/9904900)]
 |Modeling and detecting communities in node attributed networks | IEEE TKDE | 2022 | CRSBM | [[Paper](https://ieeexplore.ieee.org/document/9852668)] |
 |The trade-off between topology and content in community detection: An adaptive encoder-decoder-based NMF approach | Expert Syst. Appl. | 2022 | ANMF | [[Paper](https://doi.org/10.1016/j.eswa.2022.118230)] |
 |Community detection in subspace of attribute | Inf. Sci. | 2022 | SOA | [[Paper](https://doi.org/10.1016/j.ins.2022.04.047)] |
