@@ -164,6 +164,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Non-Deep Learning-based Communtiy Detection
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
+|Community detection via autoencoder-like nonnegative tensor decomposition | IEEE TNNLS | 2022 | ANTD | [[Paper](https://ieeexplore.ieee.org/document/9904739)] |
 |Modeling and detecting communities in node attributed networks | IEEE TKDE | 2022 | CRSBM | [[Paper](https://ieeexplore.ieee.org/document/9852668)] |
 |The trade-off between topology and content in community detection: An adaptive encoder-decoder-based NMF approach | Expert Syst. Appl. | 2022 | ANMF | [[Paper](https://doi.org/10.1016/j.eswa.2022.118230)] |
 |Community detection in subspace of attribute | Inf. Sci. | 2022 | SOA | [[Paper](https://doi.org/10.1016/j.ins.2022.04.047)] |
