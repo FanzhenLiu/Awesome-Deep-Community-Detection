@@ -58,6 +58,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ### GCN-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|Heterogeneous question answering community detection based on graph neural network | Inf. Sci. | 2023 | HCDBG | [[Paper](https://doi.org/10.1016/j.ins.2022.10.126)] |
+|Overlapping community detection on complex networks with graph convolutional networks | Comput. Commun. | 2023 | CDMG | [[Paper](https://doi.org/10.1016/j.comcom.2022.12.008)] |
 |Deep MinCut: Learning node embeddings from detecting communities | Pattern Recognit. | 2022 | DMC | [[Paper](https://doi.org/10.1016/j.patcog.2022.109126)] |
 |End-to-end modularity-based community co-partition in bipartite networks| CIKM | 2022 | BiCoN+GCN | [[Paper](https://dl.acm.org/doi/10.1145/3511808.3557309)] |
 |CLARE: A semi-supervised community detection algorithm | KDD | 2022 | CLARE | [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539370)] [[Code](https://github.com/FDUDSDE/KDD2022CLARE)] |
@@ -108,7 +110,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ----------
 ## Autoencoder-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
-| ---- | :----: | :----: | :----: | :----: | 
+| ---- | :----: | :----: | :----: | :----: |
+| A novel network core structure extraction algorithm utilized variational autoencoder for community detection | Expert Syst. Appl. | 2023 | CSEA | [[Paper](https://doi.org/10.1016/j.eswa.2023.119775)][[Code](https://github.com/PeterWana/CSEA)] |
 |Community detection based on unsupervised attributed network embedding | Expert Syst. Appl. | 2023 | CDBNE | [[Paper](https://doi.org/10.1016/j.eswa.2022.118937)][[Code](https://github.com/xidizxc/CDBNE)] |
 |Exploring temporal community structure via network embedding | IEEE TCYB | 2022 | VGRGMM | [[Paper](https://ieeexplore.ieee.org/abstract/document/9768181)]|
 |Graph community infomax | ACM TKDD | 2022 | GCI | [[Paper](https://dl.acm.org/doi/10.1145/3480244)] |
@@ -167,6 +170,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Non-Deep Learning-based Communtiy Detection
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
+|Dual structural consistency preserving community detection on social networks | IEEE TKDE | 2023 | DSCPCD | [[Paper](https://doi.org/10.1109/TKDE.2022.3230502)][[Code](https://github.com/wyy-cs/DSCPCD)] |
+|Multiplex network community detection algorithm based on motif awareness | Knowl.-Based Syst. | 2023| CDMA | [[Paper](https://doi.org/10.1016/j.knosys.2022.110136)] |
 |Community detection via autoencoder-like nonnegative tensor decomposition | IEEE TNNLS | 2022 | ANTD | [[Paper](https://ieeexplore.ieee.org/document/9904739)] |
 |Graph regularized nonnegative matrix factorization for community detection in attributed networks| IEEE TNSE | 2022 | AGNMF-AN | [[Paper](https://ieeexplore.ieee.org/document/9904900)]
 |Modeling and detecting communities in node attributed networks | IEEE TKDE | 2022 | CRSBM | [[Paper](https://ieeexplore.ieee.org/document/9852668)] |
