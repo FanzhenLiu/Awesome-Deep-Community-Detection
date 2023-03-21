@@ -154,6 +154,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Other Deep Learning-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|A hyperbolic approach for learning communities on graphs | Data Min. Knowl. Discov. | 2023 | RComE | [[Paper](https://doi.org/10.1007/s10618-022-00902-8)][[Code](https://www.github.com/tgeral68/HyperbolicGraphAndGMM)] |
 |Deep alternating non-negative matrix factorisation | Knowl.-Based Syst. | 2022 |  DA-NMF | [[Paper](https://doi.org/10.1016/j.knosys.2022.109210)] |
 |CGC: Contrastive Graph Clustering for Community Detection and Tracking | WWW | 2022 | CGC | [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512160)] |
 |Deep graph clustering via dual correlation reduction | AAAI | 2022 | DCRN | [[Paper](https://www.aaai.org/AAAI22Papers/AAAI-5928.LiuY.pdf)] [[Code](https://github.com/yueliu1999/DCRN)] |
@@ -171,6 +172,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
 |Dual structural consistency preserving community detection on social networks | IEEE TKDE | 2023 | DSCPCD | [[Paper](https://doi.org/10.1109/TKDE.2022.3230502)][[Code](https://github.com/wyy-cs/DSCPCD)] |
+|Symmetry and graph bi-regularized non-negative matrix factorization for precise community detection | IEEE TASAE | 2023 | B-NMF | [[Paper](https://doi.org/10.1109/TASE.2023.3240335)]|
+|Multi-view metro station clustering based on passenger flows: A functional data-edged network community detection approach | Data Min. Knowl. Discov. | 2023 | F<sup>2</sup>MVNCD | [[Paper](https://doi.org/10.1007/s10618-023-00916-w)] |
 |Multiplex network community detection algorithm based on motif awareness | Knowl.-Based Syst. | 2023| CDMA | [[Paper](https://doi.org/10.1016/j.knosys.2022.110136)] |
 |Community detection via autoencoder-like nonnegative tensor decomposition | IEEE TNNLS | 2022 | ANTD | [[Paper](https://ieeexplore.ieee.org/document/9904739)] |
 |Graph regularized nonnegative matrix factorization for community detection in attributed networks| IEEE TNSE | 2022 | AGNMF-AN | [[Paper](https://ieeexplore.ieee.org/document/9904900)]
