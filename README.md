@@ -206,6 +206,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 |A network embedding-enhanced Bayesian model for generalized community detection in complex networks | Inf. Sci. | 2021 | NEGCD | [[Paper](https://doi.org/10.1016/j.ins.2021.06.020)] |
 |Multi-objective evolutionary clustering for large-scale dynamic community detection | Inf. Sci. | 2021 | <nobr> DYN-MODPSO <nobr> | [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025520311117)] |
 |A joint community detection model: Integrating directed and undirected probabilistic graphical models via factor graph with attention mechanism | IEEE TBD | 2021 | AdaMRF | [[Paper](https://ieeexplore.ieee.org/document/9511816)] |
+|SimClusters: Community-based representations for heterogeneous recommendations at Twitter | KDD | 2020 | SimClusters | [[Paper](https://doi.org/10.1145/3394486.3403370)] [[Code](https://github.com/twitter/sbf)] | 
 |Evolutionary markov dynamics for network community detection | IEEE TKDE | 2020 | ePMCL | [[Paper](https://ieeexplore.ieee.org/document/9099469)] |
 |A network reduction-based multiobjective evolutionary algorithm for community detection in large-scale complex networks | IEEE TCYB | 2020 | RMOEA | [[Paper](https://ieeexplore.ieee.org/document/8486719)] |
 |Integrating group homophily and individual personality of topics can better model network communities | ICDM | 2020 | GHIPT | [[Paper](https://ieeexplore.ieee.org/document/9338379)] |
