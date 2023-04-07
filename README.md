@@ -111,7 +111,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Autoencoder-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: |
-| A novel network core structure extraction algorithm utilized variational autoencoder for community detection | Expert Syst. Appl. | 2023 | CSEA | [[Paper](https://doi.org/10.1016/j.eswa.2023.119775)][[Code](https://github.com/PeterWana/CSEA)] |
+|A graph convolutional fusion model for community detection in multiplex networks | Data Min. Knowl. Discov. | 2023 | GCFM | [[Paper](https://doi.org/10.1007/s10618-023-00932-w)] |
+|A novel network core structure extraction algorithm utilized variational autoencoder for community detection | Expert Syst. Appl. | 2023 | CSEA | [[Paper](https://doi.org/10.1016/j.eswa.2023.119775)][[Code](https://github.com/PeterWana/CSEA)] |
 |Community detection based on unsupervised attributed network embedding | Expert Syst. Appl. | 2023 | CDBNE | [[Paper](https://doi.org/10.1016/j.eswa.2022.118937)][[Code](https://github.com/xidizxc/CDBNE)] |
 |Exploring temporal community structure via network embedding | IEEE TCYB | 2022 | VGRGMM | [[Paper](https://ieeexplore.ieee.org/abstract/document/9768181)]|
 |Graph community infomax | ACM TKDD | 2022 | GCI | [[Paper](https://dl.acm.org/doi/10.1145/3480244)] |
