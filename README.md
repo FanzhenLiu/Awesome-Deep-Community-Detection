@@ -58,6 +58,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ### GCN-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|Community detection based on community perspective and graph convolutional network| Expert Syst. Appl. | 2023 | CPGC | [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423012502)] |
 |Heterogeneous question answering community detection based on graph neural network | Inf. Sci. | 2023 | HCDBG | [[Paper](https://doi.org/10.1016/j.ins.2022.10.126)] |
 |Overlapping community detection on complex networks with graph convolutional networks | Comput. Commun. | 2023 | CDMG | [[Paper](https://doi.org/10.1016/j.comcom.2022.12.008)] |
 |Deep MinCut: Learning node embeddings from detecting communities | Pattern Recognit. | 2022 | DMC | [[Paper](https://doi.org/10.1016/j.patcog.2022.109126)] |
@@ -87,6 +88,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Graph Attention Network-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|CSAT: Contrastive sampling-aggregating transformer for community detection in attribute-missing networks | IEEE TCSS | 2023 | CSAT | [[Paper](https://ieeexplore.ieee.org/document/10210121)] |
+|A graph-enhanced attention model for community detection in multiplex networks | Expert Syst. Appl. | 2023 | GEAM | [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423010540)][[Code](https://github.com/HustMinsLab/GEAM)] |
 |Hierarchical attention network for attributed community detection of joint representation | Neural Comput. Appl. | 2022 | HiAN | [[Paper](https://doi.org/10.1007/s00521-021-06723-y)] |
 |Detecting communities from heterogeneous graphs: A context path-based graph neural network model | CIKM | 2021 | <nobr> CP-GNN <nobr> | [[Paper](https://arxiv.org/pdf/2109.02058.pdf)][[Code](https://github.com/RManLuo/CP-GNN)] | 
 |HDMI: High-order deep multiplex infomax | WWW | 2021 | HDMI | [[Paper](https://dl.acm.org/doi/fullHtml/10.1145/3442381.3449971)][[Code](https://github.com/baoyujing/HDMI)] |
@@ -172,6 +175,8 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Non-Deep Learning-based Communtiy Detection
 | Paper Title | Venue | Year | Method | Materials |
 | ---- | :----: | :----: | :----: | :----: |
+| CataBEEM: Integrating latent interaction categories in node-wise community detection models for network data | ICML | 2023 | CataBEEM | [[Paper](https://proceedings.mlr.press/v202/zhang23h.html)][[Code](https://github.com/YuhuaZhang1995/CataBEEM)] |
+|Nonnegative matrix factorization based on node centrality for community detection | ACM TKDD | 2023 | NCNMF | [[Paper](https://dl.acm.org/doi/full/10.1145/3578520)][[Code](https://github.com/wowoHead/NCNMF)] |
 |Dual structural consistency preserving community detection on social networks | IEEE TKDE | 2023 | DSCPCD | [[Paper](https://doi.org/10.1109/TKDE.2022.3230502)][[Code](https://github.com/wyy-cs/DSCPCD)] |
 |Symmetry and graph bi-regularized non-negative matrix factorization for precise community detection | IEEE TASAE | 2023 | B-NMF | [[Paper](https://doi.org/10.1109/TASE.2023.3240335)]|
 |Multi-view metro station clustering based on passenger flows: A functional data-edged network community detection approach | Data Min. Knowl. Discov. | 2023 | F<sup>2</sup>MVNCD | [[Paper](https://doi.org/10.1007/s10618-023-00916-w)] |
