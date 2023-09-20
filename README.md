@@ -58,6 +58,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ### GCN-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|Complex exponential graph convolutional networks | Inf. Sci. | 2023 | CEGCN | [[Paper](https://doi.org/10.1016/j.ins.2023.119041)] [[Code](https://github.com/Daffominga/cegcn)] |
 |Community detection based on community perspective and graph convolutional network| Expert Syst. Appl. | 2023 | CPGC | [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423012502)] |
 |Heterogeneous question answering community detection based on graph neural network | Inf. Sci. | 2023 | HCDBG | [[Paper](https://doi.org/10.1016/j.ins.2022.10.126)] |
 |Overlapping community detection on complex networks with graph convolutional networks | Comput. Commun. | 2023 | CDMG | [[Paper](https://doi.org/10.1016/j.comcom.2022.12.008)] |
