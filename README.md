@@ -115,6 +115,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Autoencoder-based Community Detection
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: |
+|Contrastive Deep Nonnegative Matrix Factorization for Community Detection | ICASSP | 2024 | CDNMF | [[Paper](https://arxiv.org/abs/2311.02357)][[Code](https://github.com/6lyc/CDNMF)] |
 |A graph convolutional fusion model for community detection in multiplex networks | Data Min. Knowl. Discov. | 2023 | GCFM | [[Paper](https://doi.org/10.1007/s10618-023-00932-w)] |
 |A novel network core structure extraction algorithm utilized variational autoencoder for community detection | Expert Syst. Appl. | 2023 | CSEA | [[Paper](https://doi.org/10.1016/j.eswa.2023.119775)][[Code](https://github.com/PeterWana/CSEA)] |
 |Community detection based on unsupervised attributed network embedding | Expert Syst. Appl. | 2023 | CDBNE | [[Paper](https://doi.org/10.1016/j.eswa.2022.118937)][[Code](https://github.com/xidizxc/CDBNE)] |
@@ -159,6 +160,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
 ## Other Deep Learning-based Community Detection 
 | Paper Title | Venue | Year | Method | Materials | 
 | ---- | :----: | :----: | :----: | :----: | 
+|Contrastive Deep Nonnegative Matrix Factorization for Community Detection | ICASSP | 2024 | CDNMF | [[Paper](https://arxiv.org/abs/2311.02357)][[Code](https://github.com/6lyc/CDNMF)] |
 |A hyperbolic approach for learning communities on graphs | Data Min. Knowl. Discov. | 2023 | RComE | [[Paper](https://doi.org/10.1007/s10618-022-00902-8)][[Code](https://www.github.com/tgeral68/HyperbolicGraphAndGMM)] |
 |Deep alternating non-negative matrix factorisation | Knowl.-Based Syst. | 2022 |  DA-NMF | [[Paper](https://doi.org/10.1016/j.knosys.2022.109210)] |
 |CGC: Contrastive Graph Clustering for Community Detection and Tracking | WWW | 2022 | CGC | [[Paper](https://dl.acm.org/doi/10.1145/3485447.3512160)] |
