@@ -12,7 +12,7 @@ A collection of papers, implementations, datasets, and tools for deep and non-de
   - [Generative Adversarial Network-based Community Detection](#graph-adversarial-network-based-community-detection)
   - [Autoencoder-based Community Detection](#autoencoder-based-community-detection)
   - [Other Deep Learning-based Community Detection](#other-deep-learning-based-community-detection)
-  - [Non-Deep Learning-based Communtiy Detection](#non-deep-learning-based-communtiy-detection)
+  - [Non-Deep Learning-based Community Detection](#non-deep-learning-based-communtiy-detection)
   - [Datasets](#datasets)
   - [Tools](#tools)  
 
